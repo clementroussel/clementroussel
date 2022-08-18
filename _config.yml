@@ -1,9 +1,11 @@
 title: clementroussel
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  name: Clément Roussel
+  email: clement.roussel@onf.fr
 description: > # this means to ignore newlines until "show_excerpts:"
-  Amazing stuffs that will blow your mind !
+  We are here on Earth to help others.
+  What the others are here for, I’ve no idea."
+  W. H. Auden
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -21,7 +23,7 @@ minima:
     # facebook: jekyll
     # flickr:   jekyll
     # instagram: jekyll
-    # linkedin: jekyll
+    linkedin: clementroussel88
     # pinterest: jekyll
     # youtube: jekyll
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
