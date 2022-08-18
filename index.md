@@ -7,6 +7,4 @@
 #
 layout: home
 ---
-
-## Some content after the top bar and before the list of rencet posts.
-blablablafaf
+loreum
