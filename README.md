@@ -6,9 +6,9 @@ Want to know about me ? Visit my github homepage at http://clementroussel.github
 </div>
 
 <div id="header" align="center">
-  <h1>
-  Hi, I'm Clément !
-  </h1>
+  <h3>
+  Hi, I'm Clément ! Welcome on my github profile !
+  </h3>
 </div>
 
 
