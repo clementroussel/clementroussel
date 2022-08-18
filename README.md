@@ -3,8 +3,11 @@
 </div>
 
 <div id="header" align="center">
+  <h2>
+  Hi, I'm Clément. 
+  </h2>
   <h3>
-  Hi, I'm Clément. Welcome on my GitHub profile !
+  Welcome on my GitHub profile ! 
   </h3>
   <h4>
   If you want to know who am I and what I like to talk about (geekly speacking), you may visit my blog at http://clementroussel.github.io/clementroussel.
