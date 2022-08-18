@@ -1,14 +1,14 @@
-
-Want to know about me ? Visit my github homepage at http://clementroussel.github.io/clementroussel
-
 <div id="header" align="center">
   <img src="./icons/hello.png" width="100"/>
 </div>
 
 <div id="header" align="center">
   <h3>
-  Hi, I'm Clément ! Welcome on my github profile !
+  Hi, I'm Clément. Welcome on my GitHub profile !
   </h3>
+  <h4>
+  If you want to know who am I and what I like to talk about (geekly speacking), you may visit my blog at http://clementroussel.github.io/clementroussel.
+  </h4>
 </div>
 
 
