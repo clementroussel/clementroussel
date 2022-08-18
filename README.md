@@ -10,7 +10,7 @@
   Welcome on my GitHub profile ! 
   </h3>
   <h4>
-  If you want to know who am I and what I like to talk about (geekly speacking), you may visit my blog at http://clementroussel.github.io/clementroussel.
+  If you want to know who I am and what I like to talk about (geekly speacking), you may visit my blog at http://clementroussel.github.io/clementroussel.
   </h4>
 </div>
 
