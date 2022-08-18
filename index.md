@@ -7,4 +7,5 @@
 #
 layout: home
 ---
-loreum
+
+loreum blablabla
