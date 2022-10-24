@@ -11,7 +11,6 @@
   </h3>
   <div id="header" align="center">
   <img src="onf_rtm.png" width="400"/>
-</div>
   <h4>
   Si tu veux en savoir plus sur mon parcours et mes projets de développement, je t'invite à aller jeter un œil  sur mon blog: http://clementroussel.github.io/clementroussel.
   </h4>
