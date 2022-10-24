@@ -22,5 +22,3 @@ layout: home
   <div id="header" align="center">
   <img src="onf_rtm.png" width="400"/>
 </div>
-
----
