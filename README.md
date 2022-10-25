@@ -32,6 +32,7 @@
   <img src="https://github.com/qgis/QGIS/blob/master/images/icons/qgis-icon-512x512.png" title="QGIS" alt="QGIS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Qt" alt="Qt" width="40" height="40"/>&nbsp;
   <img src="https://github.com/readthedocs/readthedocs.org/blob/main/docs/img/logo.svg" title="Qt" alt="Qt" height="40"/>&nbsp;
+  <img src="icons/sphinx.png" title="Sphinx" alt="Sphinx" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
 </div>
 
