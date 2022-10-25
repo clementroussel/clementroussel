@@ -33,5 +33,5 @@
   <img src="icons/readthedocs.png" title="Read the docs" alt="Read the docs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/scipy/scipy/blob/main/doc/source/_static/logo.svg" title="SciPy" alt="SciPy" width="40" height="40"/>&nbsp;
   <img src="icons/sphinx.png" title="Sphinx" alt="Sphinx" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
 </div>
