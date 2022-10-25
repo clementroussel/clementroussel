@@ -19,7 +19,7 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="*Anaconda*" width="40" height="40"/>&nbsp;
+  <img src="icons/conda.png" title="Conda" alt="*Conda*" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
@@ -33,7 +33,7 @@
   <img src="https://github.com/qgis/QGIS/blob/master/images/icons/qgis-icon-512x512.png" title="QGIS" alt="QGIS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Qt" alt="Qt" width="40" height="40"/>&nbsp;
   <img src="icons/readthedocs.png" title="Read the docs" alt="Read the docs" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/scipy/scipy/blob/main/doc/source/_static/logo.svg" title="Qt" alt="Qt" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/scipy/scipy/blob/main/doc/source/_static/logo.svg" title="SciPy" alt="SciPy" width="40" height="40"/>&nbsp;
   <img src="icons/sphinx.png" title="Sphinx" alt="Sphinx" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
 </div>
