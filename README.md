@@ -16,12 +16,6 @@
   </h4>
 </div>
 
-<div id="badges">
-  <a href="www.linkedin.com/in/clement-roussel">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
 ---
 
 <div align="center">
@@ -40,4 +34,10 @@
   <img src="https://github.com/scipy/scipy/blob/main/doc/source/_static/logo.svg" title="SciPy" alt="SciPy" width="40" height="40"/>&nbsp;
   <img src="icons/sphinx.png" title="Sphinx" alt="Sphinx" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
+</div>
+
+<div id="badges">
+  <a href="www.linkedin.com/in/clement-roussel">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
