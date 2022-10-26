@@ -149,7 +149,7 @@ Dernièr élément important avant de conclure cette section, sachez que *Conda*
 - *L'Anaconda Powershell Prompt* est le point d'entrée pour travailler avec *Conda* et *Python*;
 - Par convention, on ne travaille jamais dans l'environnement virtuel par défaut de *Conda* ```(base)```;
 - La commande ```conda create --name <nom_de_l_environnement> --yes python=3.x``` permet de créer un nouvel environnement virtuel avec une version spécifique de *Python*;
-- Un environnement virtuel s'active avec la commande ```conda activate <nom_de_l_environnement```;
+- Un environnement virtuel s'active avec la commande ```conda activate <nom_de_l_environnement```.
 
 Quelques commandes utiles:
 
