@@ -13,8 +13,8 @@ Il existe différents moyens d'installer et de mettre en œuvre le langage de pr
 
 ---
 
-[1. Conda](#installer-conda)  
-[2. Anaconda Powershell Prompt](##anaconda-powershell-prompt)  
+[1. Installer *Conda*](#installer-conda)  
+[2. Utiliser *Anaconda Powershell Prompt*](##utiliser-anaconda-powershell-prompt)  
 [3. Environnement virtuel](##environnement-virtuel)  
 
 ## Installer *Conda*
@@ -23,15 +23,25 @@ Il existe différents moyens d'installer et de mettre en œuvre le langage de pr
 
 Vous devriez trouver dans votre dossier *Téléchargements* un fichier nommé *Miniconda3-latest-Windows-x86_64.exe*. Aucune élévation administrateur ne vous sera demandée pour exécuter ce fichier (hallelujah!).  
 
-Laissez les paramètres d'installation par défaut, patientez durant l'installation de *Conda* puis décochez les cases *Anaconda Distribution Tutorial* et *Getting Strated with Anaconda* avant de quitter l'installateur.
+Laissez les paramètres d'installation par défaut, patientez durant l'installation de *Conda* puis décochez les cases *Anaconda Distribution Tutorial* et *Getting Started with Anaconda* avant de quitter l'installateur.
 
 <div align="center">
     <img src="{{site.baseurl}}/assets/images/conda_installer.png">
 </div>
 
-## Anaconda Powershell Prompt
+Pour information, un dossier *Miniconda3* a été créé dans votre répertoire utilisateur, (*C:\Users\cr26739* dans mon cas). Sachez que dans ce dossier se trouve notamment le programme *Uninstall-Miniconda3.exe* permettant de supprimer *Conda* de votre ordinateur.
 
-toto
+## Utiliser *Anaconda Powershell Prompt*
+
+Cherchons maintenant à ouvrir un des programmes apparu avec l'installation de *Conda*. Il s'agit du programme *Anaconda Powershell Prompt*. Vous le trouverez facilement dans le *menu Démarrer* de *Windows* en tapant au clavier ses premières lettres.
+
+<div align="center">
+    <img src="{{site.baseurl}}/assets/images/anaconda_powershell_prompt.png">
+</div>
+
+Je vous conseille d'épingler ce programme à votre *barre des tâches* pour y accéder rapidement par la suite.  
+
+Lorsque vous exécuter *Anaconda Powershell Prompt*, une fenêtre rustique sur fond noir (appelée *invite de commande*) apparaît sous votre regard ~~ébahi~~ déconcerté, sidéré, embarrassé, médusé, estomaqué, pantois voire pétrifié. Pas de panique. Une grande inspiration...suivie d'une lente expiration. Tout va bien se passer. 
 
 ## Environnement virtuel
 
