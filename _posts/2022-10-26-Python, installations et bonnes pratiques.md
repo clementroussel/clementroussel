@@ -14,11 +14,11 @@ Il existe différents moyens d'installer et de mettre en œuvre le langage de pr
 ---
 
 [1. Installer *Conda*](#1-installer-conda)  
-[2. Utiliser *Anaconda Powershell Prompt*](#utiliser-anaconda-powershell-prompt)  
-[3. Travailler avec les environnements virtuels](#travailler-avec-les-environnements-virtuels)  
-[4. A retenir](#a-retenir)
-[5. L'aventure continue avec *Jupyterlab*][#l-aventure-continue-avec-jupyterlab]
-[6. Liens et références](#liens)
+[2. Utiliser *Anaconda Powershell Prompt*](#2-utiliser-anaconda-powershell-prompt)  
+[3. Travailler avec les environnements virtuels](#3-travailler-avec-les-environnements-virtuels)  
+[4. A retenir](#4-a-retenir)
+[5. L'aventure continue avec *Jupyterlab*][#5-l-aventure-continue-avec-jupyterlab]
+[6. Liens et références](#6-liens-et-references)
 
 ## 1. Installer *Conda*
 
@@ -35,7 +35,7 @@ Laissez les paramètres d'installation par défaut, patientez durant l'installat
 
 Pour information, un dossier *Miniconda3* a été créé dans votre répertoire utilisateur. Sachez que dans ce dossier se trouve notamment le programme *Uninstall-Miniconda3.exe* permettant de supprimer *Conda* de votre ordinateur.
 
-## Utiliser *Anaconda Powershell Prompt*
+## 2. Utiliser *Anaconda Powershell Prompt*
 
 Cherchons maintenant à ouvrir un des programmes apparu avec l'installation de *Conda*. Il s'agit du programme *Anaconda Powershell Prompt*. Vous le trouverez facilement dans le *menu Démarrer* de *Windows* en tapant au clavier ses premières lettres.
 
@@ -92,7 +92,7 @@ Félicitations! *Python* est maintenant installé sur votre ordinateur et vous p
     <p><u><i>Proud to be a <i>Python</i> Geek!</i>.</u></p>
 </div>
 
-## Travailler avec les environnements virtuels
+## 3. Travailler avec les environnements virtuels
 
 De nouveau, pas de panique. La notion, pour l'instant abstraite d'environnement virtuel, n'aura bientôt plus de secret pour vous. Commençons par une tentative de définition.  
 
@@ -148,7 +148,7 @@ Ces librairies sont uniquement installées dans l'environnement virtuel actif, �
 
 Dernièr élément important avant de conclure cette section, sachez que *Conda* se place par défaut dans son environnement virtuel ```(base)``` à chaque nouveau lancement de *l'Anaconda Powershell Prompt*. N'oubliez donc pas d'activer votre environnement virtuel avant d'installer de nouvelles librairies tierces ou de commencer à travailler avec *Python*.
 
-## A retenir
+## 4. A retenir
 
 - *L'Anaconda Powershell Prompt* est le point d'entrée pour travailler avec *Conda* et *Python*;
 - Par convention, on ne travaille jamais dans l'environnement virtuel par défaut de *Conda* ```(base)```;
@@ -162,3 +162,11 @@ Quelques commandes utiles:
 | mettre à jour *Conda*              | ```conda update conda```                              |
 |lister les environnements existants | ```conda env list```                                  |
 |supprimer un environnement          |```conda env remove --name <nom_de_l_environnement>``` |
+
+## 5. Liens et références
+
+- [Site web officiel de *Conda*](https://docs.conda.io/projects/conda/en/latest/index.html)
+
+## 6. L'aventure continue avec *JupyterLab*
+
+L'invite de commande ne vous plaît pas ou vous aimeriez passé au statut de ~~Jedi~~ *Python* master ? C'est par ici que ça se passe [JupyterLab, ça claque!](www.google.fr)
