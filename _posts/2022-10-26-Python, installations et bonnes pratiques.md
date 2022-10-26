@@ -153,11 +153,11 @@ Dernièr élément important avant de conclure cette section, sachez que *Conda*
 
 **Quelques commandes utiles:**
 
-| description                        | commande                                              |
-|:----------------------------------:|:-----------------------------------------------------:|
-| mettre à jour *Conda*              | ```conda update conda```                              |
-|lister les environnements existants | ```conda env list```                                  |
-|supprimer un environnement          |```conda env remove --name <nom_de_l_environnement>``` |
+| description                         | commande                                               |
+|:-----------------------------------:|:------------------------------------------------------:|
+| mettre à jour *Conda*               | ```conda update conda```                               |
+| lister les environnements existants | ```conda env list```                                   |
+| supprimer un environnement          | ```conda env remove --name <nom_de_l_environnement>``` |
 
 ## 5. L'aventure continue avec *JupyterLab*
 
