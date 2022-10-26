@@ -23,7 +23,7 @@ layout: home
   <img src="onf_rtm.png" width="400"/>
 </div>
 
----
+<hr>
 
 <div align="center">
   <img src="icons/conda.png" title="Conda" alt="*Conda*" width="40" height="40"/>&nbsp;
@@ -42,7 +42,7 @@ layout: home
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
 </div>
 
----
+<hr>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/clement-roussel">
