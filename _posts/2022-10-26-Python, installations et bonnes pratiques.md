@@ -169,4 +169,4 @@ Quelques commandes utiles:
 
 ## 6. L'aventure continue avec *JupyterLab*
 
-L'invite de commande ne vous plaît pas ou vous aimeriez passé au statut de ~~Jedi~~ *Python* master ? C'est par ici que ça se passe [JupyterLab, ça claque!](www.google.fr)
+L'invite de commande ne vous plaît pas ou vous aimeriez passé au statut de ~~Jedi~~ *Python* master ? C'est par ici que ça se passe [JupyterLab, ça claque!](https://www.google.fr)
