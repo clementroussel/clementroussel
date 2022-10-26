@@ -85,7 +85,7 @@ Félicitations! *Python* est maintenant installé sur votre ordinateur et vous p
 
 <div align="center">
     <img src="{{site.baseurl}}/assets/images/t-shirt.png" height="512">
-    <p><u><i>Proud to be a <i>Python</i> Geek!</i>.</u></p>
+    <p><u><i>Proud to be a <i>Python</i> Geek!</i></u></p>
 </div>
 
 ## 3. Travailler avec les environnements virtuels
