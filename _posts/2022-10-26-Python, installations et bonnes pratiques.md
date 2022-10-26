@@ -13,9 +13,9 @@ Il existe différents moyens d'installer et de mettre en œuvre le langage de pr
 
 ---
 
-[1. Conda](#Conda)  
-[2. Anaconda Powershell Prompt](#Anaconda-Powershell-Prompt)  
-[3. Environnement virtuel](#Environnement-virtuel)  
+[1. Conda](##Conda)  
+[2. Anaconda Powershell Prompt](##Anaconda-Powershell-Prompt)  
+[3. Environnement virtuel](##Environnement-virtuel)  
 
 ## Conda
 
