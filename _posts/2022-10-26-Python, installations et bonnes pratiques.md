@@ -29,19 +29,23 @@ Laissez les paramètres d'installation par défaut, patientez durant l'installat
     <img src="{{site.baseurl}}/assets/images/conda_installer.png">
 </div>
 
-Pour information, un dossier *Miniconda3* a été créé dans votre répertoire utilisateur, (*C:\Users\cr26739* dans mon cas). Sachez que dans ce dossier se trouve notamment le programme *Uninstall-Miniconda3.exe* permettant de supprimer *Conda* de votre ordinateur.
+Pour information, un dossier *Miniconda3* a été créé dans votre répertoire utilisateur. Sachez que dans ce dossier se trouve notamment le programme *Uninstall-Miniconda3.exe* permettant de supprimer *Conda* de votre ordinateur.
 
 ## Utiliser *Anaconda Powershell Prompt*
 
 Cherchons maintenant à ouvrir un des programmes apparu avec l'installation de *Conda*. Il s'agit du programme *Anaconda Powershell Prompt*. Vous le trouverez facilement dans le *menu Démarrer* de *Windows* en tapant au clavier ses premières lettres.
 
 <div align="center">
-    <img src="{{site.baseurl}}/assets/images/anaconda_powershell_prompt.png">
+    <img src="{{site.baseurl}}/assets/images/anaconda_powershell_prompt.png" width="512">
 </div>
 
 Je vous conseille d'épingler ce programme à votre *barre des tâches* pour y accéder rapidement par la suite.  
 
 Lorsque vous exécuter *Anaconda Powershell Prompt*, une fenêtre rustique sur fond noir (appelée *invite de commande*) apparaît sous votre regard ~~ébahi~~ déconcerté, sidéré, embarrassé, médusé, estomaqué, pantois voire pétrifié. Pas de panique. Une grande inspiration...suivie d'une lente expiration. Tout va bien se passer. 
+
+<div align="center">
+    <img src="{{site.baseurl}}/assets/images/hello_world.png" width="512">
+</div>
 
 ## Environnement virtuel
 
