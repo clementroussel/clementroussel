@@ -11,6 +11,8 @@ Il existe différents moyens d'installer et de mettre en œuvre le langage de pr
   <img src="./assets/images/mr_propre.png" width="40"/>
 </div>
 
+![image description](./assets/images/mr_propre.png)
+
 **Temps de lecture et de mise en œuvre estimé à 30 minutes**
 
  *Conda* est un gestionnaire de packages et un système de gestion d'environnement open source. Il permet notamment de créer facilement des **environnements virtuels** associés à différentes versions de *Python*.  
