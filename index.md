@@ -31,13 +31,13 @@ layout: home
   <img src="icons/jupyter.png" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="icons/markdown.png" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
   <img src="icons/matplotlib.png" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
-  <img src="icons/numpy" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/qgis/QGIS/blob/master/images/icons/qgis-icon-512x512.png" title="QGIS" alt="QGIS" width="40" height="40"/>&nbsp;
+  <img src="icons/numpy.png" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
+  <img src="icons/pandas.png" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+  <img src="icons/python.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="icons/qgis.png" title="QGIS" alt="QGIS" width="40" height="40"/>&nbsp;
   <img src="icons/qt.png" title="Qt" alt="Qt" width="40" height="40"/>&nbsp;
   <img src="icons/readthedocs.png" title="Read the docs" alt="Read the docs" width="40" height="40"/>&nbsp;
-  <img src="icons/scipy" title="SciPy" alt="SciPy" width="40" height="40"/>&nbsp;
+  <img src="icons/scipy.png" title="SciPy" alt="SciPy" width="40" height="40"/>&nbsp;
   <img src="icons/sphinx.png" title="Sphinx" alt="Sphinx" width="40" height="40"/>&nbsp;
   <img src="icons/vscode.png" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
 </div>
