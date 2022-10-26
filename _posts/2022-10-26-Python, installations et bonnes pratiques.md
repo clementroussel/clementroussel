@@ -14,8 +14,8 @@ Il existe différents moyens d'installer et de mettre en œuvre le langage de pr
 ---
 
 [1. Installer *Conda*](#installer-conda)  
-[2. Utiliser *Anaconda Powershell Prompt*](##utiliser-anaconda-powershell-prompt)  
-[3. Travailler avec les environnements virtuels](##travailler-avec-les-environnements-virtuels)  
+[2. Utiliser *Anaconda Powershell Prompt*](#utiliser-anaconda-powershell-prompt)  
+[3. Travailler avec les environnements virtuels](#travailler-avec-les-environnements-virtuels)  
 
 ## Installer *Conda*
 
@@ -67,7 +67,7 @@ Pour finir cette section en beauté, entrez finalement la commande:
 python
 ```
 
-Cette dernière commande lance le programme *Python*. Vous devriez remarquer les trois chevrons ```>>>``` vous invitant à, littéralement parlant, *discuter* en *Python* avec votre ordinateur. Demandez lui, par exemple, de vous afficher le message *Hello World !* grâce à **l'instruction** suivante:
+Cette dernière commande lance le programme *Python*. Vous devriez remarquer les trois chevrons ```>>>``` vous invitant à, littéralement parlant, *discuter* en *Python* avec votre ordinateur. Demandez lui, par exemple, de vous afficher le message *Hello World !* grâce à *l'instruction* suivante:
 
 ```python
 print("Hello World !")
@@ -80,6 +80,8 @@ Sans surprise, *Python* vous répond en affichant le texte passé en paramètre 
     <p><u>Invite de commande et interpréteur <i>Python</i>.</u></p>
 </div>
 
+La dernière *instruction* passée à *l'interpréteur Python* ```exit()``` ferme *l'interpréteur Python* et redonne la main sur *l'invite de commande*.  
+
 Félicitations! *Python* est maintenant installé sur votre ordinateur et vous pouvez y accéder en utilisant l'invite de commande *Anaconda Powershell Prompt* maintenant épinglée à votre *barre des tâches*. Cependant, je vous ~~oblige~~ invite très fortement à suivre la section suivante pour adopter de bonnes pratiques et être en droit de porter fièrement le T-shirt officiel *Python*.
 
 <div align="center">
@@ -87,8 +89,16 @@ Félicitations! *Python* est maintenant installé sur votre ordinateur et vous p
     <p><u><i>Proud to be a <i>Python</i> Geek</i>.</u></p>
 </div>
 
-## Travailler dans un environnement virtuel
+## Travailler avec les environnements virtuels
 
+De nouveau, pas de panique. La notion, pour l'instant abstraite *d'environnement virtuel*, n'aura bientôt plus de secret pour vous. Commençons par une tentative de définition.  
 
+Un *environnement virtuel* est un espace contenant une installation de *Python* autonome, c'est-à-dire indépendante de celle du système d'exploitation. Un *environnement virtuel* permet notamment:
+- d'avoir une version par défaut de *Python* différente de celle du système;
+- d'installer des *librairies* dans des versions spécifiques;
+- d'installer des *libriaires* sans les installer globalement sur le système d'exploitation.
 
+Passons à la pratique pour assimiler plus facilement ces notions.  
+
+Dans *l'Anaconda Powershell Prompt* 
 
