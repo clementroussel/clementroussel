@@ -6,7 +6,6 @@ description: > # this means to ignore newlines until "show_excerpts:"
   "We are here on Earth to help others.
   What the others are here for, I’ve no idea."
   W. H. Auden
-source: .
 
 show_excerpts: true # set to true to show excerpts on the homepage
 
