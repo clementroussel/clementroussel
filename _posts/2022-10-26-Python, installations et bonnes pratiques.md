@@ -33,7 +33,7 @@ Pour information, un dossier *Miniconda3* a été créé dans votre répertoire 
 
 ## 2. Utiliser *Anaconda Powershell Prompt*
 
-Cherchons maintenant à ouvrir un des programmes apparu avec l'installation de *Conda*. Il s'agit du programme *Anaconda Powershell Prompt*. Vous le trouverez facilement dans le *menu Démarrer* de *Windows* en tapant au clavier ses premières lettres.
+Cherchons maintenant à ouvrir un des programmes apparus avec l'installation de *Conda*. Il s'agit du programme *Anaconda Powershell Prompt*. Vous le trouverez facilement dans le *menu Démarrer* de *Windows* en tapant au clavier ses premières lettres.
 
 <div align="center">
     <img src="{{site.baseurl}}/assets/images/anaconda_powershell_prompt.png">
