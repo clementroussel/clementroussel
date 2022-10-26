@@ -163,10 +163,10 @@ Quelques commandes utiles:
 |lister les environnements existants | ```conda env list```                                  |
 |supprimer un environnement          |```conda env remove --name <nom_de_l_environnement>``` |
 
-## 5. Liens et références
-
-- [Site web officiel de *Conda*](https://docs.conda.io/projects/conda/en/latest/index.html)
-
-## 6. L'aventure continue avec *JupyterLab*
+## 5. L'aventure continue avec *JupyterLab*
 
 L'invite de commande ne vous plaît pas ou vous aimeriez passer au statut de ~~Jedi~~ *Python* master ? C'est par ici que ça se passe [JupyterLab, ça claque!](https://www.google.fr)
+
+## 6. Liens et références
+
+- [Site web officiel de *Conda*](https://docs.conda.io/projects/conda/en/latest/index.html)
