@@ -129,8 +129,8 @@ conda activate python38
 Remarquez que chaque nouvelle ligne de l'invite de commande commance maintenant par ```(python38)```. Nous sommes donc bien dans notre nouvel environnement virtuel. Vous pouvez également vérifier que *Python* y est installé dans sa version 3.8.
 
 <div align="center">
-    <img src="{{site.baseurl}}/assets/images/python38.png" height="512">
-    <p><u>Activation de notre <i>environnement virtuel</i> nommé *python38*.</u></p>
+    <img src="{{site.baseurl}}/assets/images/python38.png">
+    <p><u>Activation de notre <i>environnement virtuel</i> nommé <i>python38</i>.</u></p>
 </div>
 
 Libre à vous maintenant de faire ce que bon vous semble dans cet environnement virtuel. Tant que chaque ligne de l'invite de commande commence par ```(python38)```, vous êtes assurés d'être dans votre environnement virtuel fraîchement créé et de ne pas polluer l'environnement virtuel par défaut de *Conda*, ni les potentiels autres environnements virtuels crés.  
