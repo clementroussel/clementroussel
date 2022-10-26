@@ -8,10 +8,8 @@ Il existe différents moyens d'installer et de mettre en œuvre le langage de pr
 **Mon conseil:** suivez les conseils de *Mr Propre* pour une installation et une utilisation optimale de votre nouvel meilleur ami, *Python* !
 
 <div align="center">
-  <img src="./assets/images/mr_propre.png" width="40"/>
+  <img src="http://clementroussel.github.io/assets/images/mr_propre.png" width="40"/>
 </div>
-
-![image description](/assets/images/mr_propre.png)
 
 **Temps de lecture et de mise en œuvre estimé à 30 minutes**
 

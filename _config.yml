@@ -7,8 +7,6 @@ description: > # this means to ignore newlines until "show_excerpts:"
   What the others are here for, I’ve no idea."
   W. H. Auden
 
-BASE_PATH : .
-
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
