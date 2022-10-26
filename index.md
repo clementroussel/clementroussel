@@ -25,20 +25,20 @@ layout: home
 
 <hr>
 
-<div align="center">
+<div id="header" align="center">
   <img src="https://github.com/clementroussel/clementroussel/blob/main/icons/conda.png" title="Conda" alt="Conda" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/clementroussel/clementroussel/blob/main/icons/github.png" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="icons/github.png" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/clementroussel/clementroussel/blob/main/icons/markdown.png" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
+  <img src="icons/markdown.png" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
   <img src="https://github.com/matplotlib/matplotlib/blob/main/doc/_static/matplotlib-icon.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/qgis/QGIS/blob/master/images/icons/qgis-icon-512x512.png" title="QGIS" alt="QGIS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Qt" alt="Qt" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/clementroussel/clementroussel/blob/main/icons/readthedocs.png" title="Read the docs" alt="Read the docs" width="40" height="40"/>&nbsp;
+  <img src="icons/readthedocs.png" title="Read the docs" alt="Read the docs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/scipy/scipy/blob/main/doc/source/_static/logo.svg" title="SciPy" alt="SciPy" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/clementroussel/clementroussel/blob/main/icons/sphinx.png" title="Sphinx" alt="Sphinx" width="40" height="40"/>&nbsp;
+  <img src="icons/sphinx.png" title="Sphinx" alt="Sphinx" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
 </div>
 
