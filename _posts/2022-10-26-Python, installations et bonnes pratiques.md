@@ -132,7 +132,7 @@ Remarquez que chaque nouvelle ligne de l'invite de commande commance maintenant 
     <p><u>Activation de notre <i>environnement virtuel</i> nommé <i>python38</i>.</u></p>
 </div>
 
-Libre à vous maintenant de faire ce que bon vous semble dans cet environnement virtuel. Tant que chaque ligne de l'invite de commande commence par ```(python38)```, vous êtes assurés d'être dans votre environnement virtuel fraîchement créé et de ne pas polluer l'environnement virtuel par défaut de *Conda*, ni les potentiels autres environnements virtuels crés.  
+Libre à vous maintenant de faire ce que bon vous semble dans cet environnement virtuel. Tant que chaque ligne de l'invite de commande commence par ```(python38)```, vous êtes assurés d'être dans votre environnement virtuel fraîchement créé et de ne pas polluer l'environnement virtuel par défaut de *Conda*, ni les potentiels autres environnements virtuels créés.  
 
 Installons, par exemple, la plupart des librairies scientifiques tierces:
 
