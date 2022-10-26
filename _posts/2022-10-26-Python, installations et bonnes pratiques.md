@@ -21,7 +21,9 @@ Il existe différents moyens d'installer et de mettre en œuvre le langage de pr
 
 [*Conda*](https://docs.conda.io/en/latest/) est un gestionnaire de packages et un système de gestion d'environnement open source. Il va nous permettre de gérer facilement *Python* et ses modules tierces grâce aux *environnements virtuels*. Pour l'instant, commençons par [télécharger l'installateur de *Conda* pour *Windows*](https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe).  
 
-Vous devriez trouver dans votre dossier *Téléchargements* un fichier nommé *Miniconda3-latest-Windows-x86_64.exe*. Aucune élévation administrateur ne vous sera demandée pour exécuter ce fichier (hallelujah !).
+Vous devriez trouver dans votre dossier *Téléchargements* un fichier nommé *Miniconda3-latest-Windows-x86_64.exe*. Aucune élévation administrateur ne vous sera demandée pour exécuter ce fichier (hallelujah!).  
+
+Laissez les paramètres d'installation par défaut, patientez durant l'installation de *Conda* puis décochez les cases *Anaconda Distribution Tutorial* et *Getting Strated with Anaconda* avant de quitter l'installateur.
 
 <div align="center">
     <img src="{{site.baseurl}}/assets/images/conda_installer.png">
