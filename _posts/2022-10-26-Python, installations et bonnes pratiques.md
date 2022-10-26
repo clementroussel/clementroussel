@@ -16,9 +16,9 @@ Il existe différents moyens d'installer et de mettre en œuvre le langage de pr
 [1. Installer *Conda*](#1-installer-conda)  
 [2. Utiliser *Anaconda Powershell Prompt*](#2-utiliser-anaconda-powershell-prompt)  
 [3. Travailler avec les environnements virtuels](#3-travailler-avec-les-environnements-virtuels)  
-[4. A retenir](#4-a-retenir)
-[5. L'aventure continue avec *Jupyterlab*][#5-l-aventure-continue-avec-jupyterlab]
-[6. Liens et références](#6-liens-et-references)
+[4. A retenir](#4-a-retenir)  
+[5. L'aventure continue avec *Jupyterlab*][#5-l-aventure-continue-avec-jupyterlab]  
+[6. Liens et références](#6-liens-et-references)  
 
 ## 1. Installer *Conda*
 
