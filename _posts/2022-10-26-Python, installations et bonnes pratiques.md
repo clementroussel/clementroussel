@@ -6,20 +6,26 @@ title: Python, installation et bonnes pratiques
 Il existe différents moyens d'installer et de mettre en œuvre le langage de programmation *Python* sur votre ordinateur. Entre droits administrateur, versions de *Python* et installation de modules tierces, vous pourriez rapidement vous décourager dans l'utilisation de *Python*. Suivez les conseils de *Mr Propre* pour une installation et une utilisation optimale de votre nouvel meilleur ami, *Python* !
 
 <div align="center">
-<img src="{{site.baseurl}}/assets/images/mr_propre.png" width="64">
+    <img src="{{site.baseurl}}/assets/images/mr_propre.png" width="64">
 </div>
 
 **Temps de lecture et de mise en œuvre estimé à 30 minutes**
 
 ---
 
-[1. Conda](#conda)  
-[2. Anaconda Powershell Prompt](##Anaconda-Powershell-Prompt)  
-[3. Environnement virtuel](##Environnement-virtuel)  
+[1. Conda](#installer-conda)  
+[2. Anaconda Powershell Prompt](##anaconda-powershell-prompt)  
+[3. Environnement virtuel](##environnement-virtuel)  
 
-## Conda
+## Installer *Conda*
 
-toto
+[*Conda*](https://docs.conda.io/en/latest/) est un gestionnaire de packages et un système de gestion d'environnement open source. Il va nous permettre de gérer facilement *Python* et ses modules tierces grâce aux *environnements virtuels*. Pour l'instant, commençons par [télécharger l'installateur de *Conda* pour *Windows*](https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe).  
+
+Vous devriez trouver dans votre dossier *Téléchargements* un fichier nommé *Miniconda3-latest-Windows-x86_64.exe*. Aucune élévation administrateur ne vous sera demandée pour exécuter ce fichier (hallelujah !).
+
+<div align="center">
+    <img src="{{site.baseurl}}/assets/images/conda_installer.png">
+</div>
 
 ## Anaconda Powershell Prompt
 
