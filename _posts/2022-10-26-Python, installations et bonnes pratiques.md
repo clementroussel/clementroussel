@@ -3,7 +3,7 @@ layout: post
 title: Python, installation et bonnes pratiques
 ---
 
-Il existe différents moyens d'installer et de mettre en œuvre le langage de programmation *Python* sur votre ordinateur. Suivez les conseils de *Mr Propre* pour une installation et une utilisation optimale de votre nouvel meilleur ami, *Python* !.
+Il existe différents moyens d'installer et de mettre en œuvre le langage de programmation *Python* sur votre ordinateur. Suivez les conseils de *Mr Propre* pour une installation et une utilisation optimale de votre nouvel meilleur ami, *Python* !
 
  *Conda* est un gestionnaire de packages et un système de gestion d'environnement open source. Il permet notamment de créer facilement des **environnements virtuels** associés à différentes versions de *Python*.  
 
