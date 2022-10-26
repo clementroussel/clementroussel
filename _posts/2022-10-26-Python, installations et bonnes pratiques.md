@@ -27,7 +27,7 @@ Laissez les paramètres d'installation par défaut, patientez durant l'installat
 
 <div align="center">
     <img src="{{site.baseurl}}/assets/images/conda_installer.png">
-    <p>Décochez les deux cases avant de quitter l'installateur.</p>
+    <p><u>Décochez les deux cases avant de quitter l'installateur.</u></p>
 </div>
 
 Pour information, un dossier *Miniconda3* a été créé dans votre répertoire utilisateur. Sachez que dans ce dossier se trouve notamment le programme *Uninstall-Miniconda3.exe* permettant de supprimer *Conda* de votre ordinateur.
@@ -38,6 +38,7 @@ Cherchons maintenant à ouvrir un des programmes apparu avec l'installation de *
 
 <div align="center">
     <img src="{{site.baseurl}}/assets/images/anaconda_powershell_prompt.png">
+    <p><u>Recherchez le programme *Anaconda Powershell Prompt.</u></p>
 </div>
 
 Je vous conseille d'épingler ce programme à votre *barre des tâches* pour y accéder rapidement par la suite.  
