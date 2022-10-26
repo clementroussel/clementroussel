@@ -161,7 +161,7 @@ Dernièr élément important avant de conclure cette section, sachez que *Conda*
 
 ## 5. L'aventure continue avec *JupyterLab*
 
-L'invite de commande ne vous plaît pas ou vous aimeriez passer au statut de ~~Jedi~~ *Python* master ? C'est par ici que ça se passe [JupyterLab, ça claque!](https://www.google.fr)
+L'invite de commande ne vous plaît pas ou vous aimeriez passer au statut de ~~Jedi~~ *Python* master ? C'est par ici que ça se passe: [JupyterLab, ça claque!](https://www.google.fr)
 
 ## 6. Liens et références
 
