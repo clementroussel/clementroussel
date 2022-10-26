@@ -80,10 +80,10 @@ Sans surprise, *Python* vous répond en affichant le texte passé en paramètre 
     <p><u>Invite de commande et interpréteur <i>Python</i>.</u></p>
 </div>
 
-Félicitations! *Python* est maintenant installé sur votre ordinateur et vous pouvez y accéder en utilisant l'invite de commande *Anaconda Powershell Prompt* maintenant épinglée à votre *barre des tâches*. Cependant, je vous ~~oblige~~ invite très fortement à suivre la section suivante pour adopter de bonnes pratiques et être en droit de porter fièrement le T-shit officiel *Python*.
+Félicitations! *Python* est maintenant installé sur votre ordinateur et vous pouvez y accéder en utilisant l'invite de commande *Anaconda Powershell Prompt* maintenant épinglée à votre *barre des tâches*. Cependant, je vous ~~oblige~~ invite très fortement à suivre la section suivante pour adopter de bonnes pratiques et être en droit de porter fièrement le T-shirt officiel *Python*.
 
 <div align="center">
-    <img src="{{site.baseurl}}/assets/images/t-shirt.png">
+    <img src="{{site.baseurl}}/assets/images/t-shirt.png height=512">
     <p><u><i>Proud to be a <i>Python</i> Geek</i>.</u></p>
 </div>
 
