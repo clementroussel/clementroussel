@@ -4,7 +4,12 @@ title: Python, installation et bonnes pratiques
 ---
 
 Il existe différents moyens d'installer et de mettre en œuvre le langage de programmation *Python* sur votre ordinateur. Droits administrateur pour l'installation, version de *Python* et modules tierces peuvent vite vous décourager dans l'utilisation de *Python*.  
-Mon conseil: suivez les conseils de *Mr Propre* pour une installation et une utilisation optimale de votre nouvel meilleur ami, *Python* !
+
+**Mon conseil:** suivez les conseils de *Mr Propre* pour une installation et une utilisation optimale de votre nouvel meilleur ami, *Python* !
+
+<div align="center">
+  <img src="./icons/mr_propre.png" width="40"/>
+</div>
 
 **Temps de lecture et de mise en œuvre estimé: 30 minutes**
 
