@@ -143,7 +143,16 @@ pip install numpy scipy pandas matplotlib
 
 Ces librairies sont uniquement installées dans l'environnement virtuel actif, à savoir, *python38*. Les autres environnements virtuels ne sont pas impactés.
 
-Dernièr élément important avant de conclure cette section, sachez que *Conda* se place par défaut dans son environnement virtuel ````(base)``` à chaque nouveau lancement de *l'Anaconda Powershell Prompt*. N'oubliez donc pas d'activer votre environnement virtuel avec d'installer de nouvelles librairies tierces ou de commencer à travailler avec *Python*.
+Dernièr élément important avant de conclure cette section, sachez que *Conda* se place par défaut dans son environnement virtuel ```(base)``` à chaque nouveau lancement de *l'Anaconda Powershell Prompt*. N'oubliez donc pas d'activer votre environnement virtuel avant d'installer de nouvelles librairies tierces ou de commencer à travailler avec *Python*.
 
 ## A retenir
 
+- *L'Anaconda Powershell Prompt* est le point d'entrée pour travailler avec *Conda* et *Python*;
+- Par convention, on ne travaille jamais dans l'environnement virtuel par défaut de *Conda* ```(base)```;
+- La commande ```conda create --name <nom_de_mon_environnement> --yes python=3.x``` permet de créer un nouvel environnement virtuel avec une version spécifique de *Python*;
+- Un environnement virtuel s'active avec la commande ```conda activate <nom_de_l_environnement```;
+
+Quelques commandes utiles:
+
+| mettre à jour *Conda* | ```conda update conda``` |
++-----------------------+--------------------------+
