@@ -11,7 +11,7 @@ Il existe différents moyens d'installer et de mettre en œuvre le langage de pr
   <img src="./assets/images/mr_propre.png" width="40"/>
 </div>
 
-![image description](./assets/images/mr_propre.png)
+![image description](/assets/images/mr_propre.png)
 
 **Temps de lecture et de mise en œuvre estimé à 30 minutes**
 
