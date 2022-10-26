@@ -100,5 +100,23 @@ Un *environnement virtuel* est un espace contenant une installation de *Python* 
 
 Passons à la pratique pour assimiler plus facilement ces notions.  
 
-Dans *l'Anaconda Powershell Prompt* 
+Dans *l'Anaconda Powershell Prompt*, vous avez peut-être remarqué l'indication ```(base)``` qui débute chaque nouvelle ligne de *l'invite de commande*. Elle signifie que vous êtes actuellement dans *l'environnement virtuel* nommé *base*. C'est *l'environnement virtuel* de *Conda* par défaut. Dans la section précédente, nous avons constaté que *Python* y était présent en vérifiant notammenet sa version. **Par convention, on ne travaille jamais dans *l'environnement virtuel* par défaut.**  
+
+Respectons cette convention et créons notre propre *environnement virtuel*. Dans *l'Anaconda Powershell Prompt*, entrez la commande suivante:
+
+```bash
+conda create --name python38 --yes python=3.8
+```
+
+Cette commande demande à *Conda* de créer un *environnement virtuel* nommé *python38* avec une version spécifique de *Python*, ici la version 3.8. *Conda* se débrouille alors pour télécharger et générer les fichiers nécessaires à la création de ce nouvel environnement. A la fin du processus de création de notre environnement, il vous indique même le message suivant:
+
+```bash
+# To activate this environment, use
+#
+#     $ conda activate python38
+#
+# To deactivate an active environment, use
+#
+#     $ conda deactivate
+```
 
