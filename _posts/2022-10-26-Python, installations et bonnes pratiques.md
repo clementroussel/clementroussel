@@ -27,6 +27,7 @@ Laissez les paramètres d'installation par défaut, patientez durant l'installat
 
 <div align="center">
     <img src="{{site.baseurl}}/assets/images/conda_installer.png">
+    <p>Décochez les deux cases avant de quitter l'installateur.</p>
 </div>
 
 Pour information, un dossier *Miniconda3* a été créé dans votre répertoire utilisateur. Sachez que dans ce dossier se trouve notamment le programme *Uninstall-Miniconda3.exe* permettant de supprimer *Conda* de votre ordinateur.
