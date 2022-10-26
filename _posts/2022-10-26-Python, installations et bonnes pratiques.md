@@ -151,7 +151,7 @@ Dernièr élément important avant de conclure cette section, sachez que *Conda*
 - La commande ```conda create --name <nom_de_l_environnement> --yes python=3.x``` permet de créer un nouvel environnement virtuel avec une version spécifique de *Python*;
 - Un environnement virtuel s'active avec la commande ```conda activate <nom_de_l_environnement```.
 
-Quelques commandes utiles:
+**Quelques commandes utiles:**
 
 | description                        | commande                                              |
 |:----------------------------------:|:-----------------------------------------------------:|
