@@ -15,7 +15,7 @@ Il existe différents moyens d'installer et de mettre en œuvre le langage de pr
 
 [1. Installer *Conda*](#installer-conda)  
 [2. Utiliser *Anaconda Powershell Prompt*](##utiliser-anaconda-powershell-prompt)  
-[3. Environnement virtuel](##environnement-virtuel)  
+[3. Travailler avec les environnements virtuels](##travailler-avec-les-environnements-virtuels)  
 
 ## Installer *Conda*
 
@@ -87,21 +87,8 @@ Félicitations! *Python* est maintenant installé sur votre ordinateur et vous p
     <p><u><i>Proud to be a <i>Python</i> Geek</i>.</u></p>
 </div>
 
-## Environnement virtuel
+## Travailler dans un environnement virtuel
 
-toto
 
- *Conda* est un gestionnaire de packages et un système de gestion d'environnement open source. Il permet notamment de créer facilement des **environnements virtuels** associés à différentes versions de *Python*.  
-
-Un **environnement virtuel** est un répertoire contenant une installation de *Python* autonome (indépendante de celle du système d'exploitation). Les **environnements virtuels** sont intéressants lorsqu'on souhite:
-
-- avoir une version par défaut de *Python* différente de celle du système;
-- installer des librairies dans une version différente de celle du système;
-- installer des librairies sans les installer globalement sur le système.
-
-## Télécharger et installer *Conda*
-
-- Télécharger l'installateur de *Miniconda* pour votre système d'exploitation sur [https://docs.conda.io/en/latest/miniconda.html](https://docs.conda.io/en/latest/miniconda.html).
-- Exécuter l'installateur en laissant les paramètres d'installation par défaut. Il n'est pas nécessaire d'être administrateur pour installer *Conda*.
 
 
