@@ -129,7 +129,7 @@ conda activate python38
 Remarquez que chaque nouvelle ligne de l'invite de commande commance maintenant par ```(python38)```. Nous sommes donc bien dans notre nouvel environnement virtuel. Vous pouvez également vérifier que *Python* y est installé dans sa version 3.8.
 
 <div align="center">
-    <img src="{{site.baseurl}}/assets/images/t-shirt.png" height="512">
+    <img src="{{site.baseurl}}/assets/images/python38.png" height="512">
     <p><u>Activation de notre <i>environnement virtuel</i> nommé *python38*.</u></p>
 </div>
 
@@ -154,8 +154,8 @@ Dernièr élément important avant de conclure cette section, sachez que *Conda*
 
 Quelques commandes utiles:
 
-| description                   | commande                                             |
-|:-----------------------------:|:----------------------------------------------------:|
-| mettre à jour *Conda*         | ```conda update conda```                             |
-|lister les environnements créés| ```conda env list```                                 |
-|supprimer un environnement     |```conda env remove --name <nom_de_l_environnement``` |
+| description                        | commande                                              |
+|:----------------------------------:|:-----------------------------------------------------:|
+| mettre à jour *Conda*              | ```conda update conda```                              |
+|lister les environnements existants | ```conda env list```                                  |
+|supprimer un environnement          |```conda env remove --name <nom_de_l_environnement>``` |
