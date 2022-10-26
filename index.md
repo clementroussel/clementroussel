@@ -26,7 +26,7 @@ layout: home
 <hr>
 
 <div align="center">
-  <img src="https://github.com/clementroussel/clementroussel/blob/main/icons/conda.png" title="Conda" alt="*Conda*" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/clementroussel/clementroussel/blob/main/icons/conda.png" title="Conda" alt="Conda" width="40" height="40"/>&nbsp;
   <img src="https://github.com/clementroussel/clementroussel/blob/main/icons/github.png" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/clementroussel/clementroussel/blob/main/icons/markdown.png" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
