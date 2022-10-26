@@ -18,7 +18,7 @@
 
 ---
 
-<div align="center">
+<div id="header" align="center">
   <img src="_includes/icons/conda.png" title="Conda" alt="Conda" width="40" height="40"/>&nbsp;
   <img src="icons/github.png" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
