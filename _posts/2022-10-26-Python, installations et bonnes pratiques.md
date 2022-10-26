@@ -46,7 +46,7 @@ Lorsque vous exécuter *Anaconda Powershell Prompt*, une fenêtre rustique sur f
 
 Vérifions dans un premier temps que *Conda* est bien installé en vérifiant sa version. Au clavier, entrez la commande suivante:
 
-```
+```bash
 conda --version
 ```
 
