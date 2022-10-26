@@ -41,7 +41,13 @@ Cherchons maintenant à ouvrir un des programmes apparu avec l'installation de *
 
 Je vous conseille d'épingler ce programme à votre *barre des tâches* pour y accéder rapidement par la suite.  
 
-Lorsque vous exécuter *Anaconda Powershell Prompt*, une fenêtre rustique sur fond noir (appelée *invite de commande*) apparaît sous votre regard ~~ébahi~~ déconcerté, sidéré, embarrassé, médusé, estomaqué, pantois voire pétrifié. Pas de panique. Une grande inspiration...suivie d'une lente expiration. Tout va bien se passer. 
+Lorsque vous exécuter *Anaconda Powershell Prompt*, une fenêtre rustique sur fond noir (appelée *invite de commande*) apparaît sous votre regard ~~ébahi~~ déconcerté, sidéré, embarrassé, médusé, estomaqué, pantois voire pétrifié. Pas de panique. Une grande inspiration...suivie d'une lente expiration. Tout va bien se passer.  
+
+Vérifions dans un premier temps que *Conda* est bien installé en vérifiant sa version. Au clavier, entrez la commande suivante:
+
+```
+conda --version
+```
 
 <div align="center">
     <img src="{{site.baseurl}}/assets/images/hello_world.png" width="512">
