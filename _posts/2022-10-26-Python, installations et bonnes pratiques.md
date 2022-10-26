@@ -3,7 +3,7 @@ layout: post
 title: Python, installation et bonnes pratiques
 ---
 
-Il existe différents moyens d'installer et de mettre en œuvre le langage de programmation *Python* sur votre ordinateur. Droits administrateur pour l'installation, version de *Python* et modules tierces peuvent vite vous décourager dans l'utilisation de *Python*.  
+Il existe différents moyens d'installer et de mettre en œuvre le langage de programmation *Python* sur votre ordinateur. Entre droits administrateur, versions de *Python* et installation de modules tierces, vous pourriez rapidement vous décourager dans l'utilisation de *Python*.  
 
 **Mon conseil:** suivez les conseils de *Mr Propre* pour une installation et une utilisation optimale de votre nouvel meilleur ami, *Python* !
 
