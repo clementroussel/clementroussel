@@ -50,8 +50,27 @@ Vérifions dans un premier temps que *Conda* est bien installé en vérifiant sa
 conda --version
 ```
 
-puis tapez sur la touche *Entrée* de votre clavier. Si l'installation s'est bien déroulée, vous devriez voir apparaître en retour de votre commande le numéro de version de *Conda*.
+puis tapez sur la touche *Entrée* de votre clavier. Si l'installation s'est bien déroulée, vous devriez voir apparaître en retour de votre commande le numéro de version de *Conda*.  
 
+Entrez ensuite la commande suivante:
+
+```bash
+python --version
+```
+
+Puis tapez sur la touche *Entrée*. Cette fois-ci, vous devriez voir apparaître le numéro de version de *Python*, signifiant également que *Python* est maintenant bien présent sur votre ordinateur (re-hallelujah!).
+
+Pour finir cette section en beauté, entrez finalement la commande:
+
+```bash
+python
+```
+
+Cette dernière commande lance le programme *Python*. Vous devriez remarquer les trois chevrons ```>>>``` vous invitant à, littéralement parlant, *discuter* en *Python* avec votre ordinateur. Demandez lui, par exemple, de vous afficher le message *Hello World !* grâce à **l'instruction** suivante:
+
+```python
+print("Hello World !")
+```
 
 
 <div align="center">
