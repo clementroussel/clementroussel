@@ -38,7 +38,7 @@ Cherchons maintenant à ouvrir un des programmes apparu avec l'installation de *
 
 <div align="center">
     <img src="{{site.baseurl}}/assets/images/anaconda_powershell_prompt.png">
-    <p><u>Recherchez le programme *Anaconda Powershell Prompt*.</u></p>
+    <p><u>Recherchez le programme <i>Anaconda Powershell Prompt</i>.</u></p>
 </div>
 
 Je vous conseille d'épingler ce programme à votre *barre des tâches* pour y accéder rapidement par la suite.  
@@ -77,8 +77,10 @@ Sans surprise, *Python* vous répond en affichant le texte passé en paramètre 
 
 <div align="center">
     <img src="{{site.baseurl}}/assets/images/hello_world.png">
-    <p><u>Invite de commande et interpréteur *Python*.</u></p>
+    <p><u>Invite de commande et interpréteur <i>Python</i>.</u></p>
 </div>
+
+
 
 ## Environnement virtuel
 
