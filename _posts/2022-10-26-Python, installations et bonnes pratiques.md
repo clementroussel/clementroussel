@@ -13,11 +13,14 @@ Il existe différents moyens d'installer et de mettre en œuvre le langage de pr
 
 ---
 
-[1. Installer *Conda*](#installer-conda)  
+[1. Installer *Conda*](#1-installer-conda)  
 [2. Utiliser *Anaconda Powershell Prompt*](#utiliser-anaconda-powershell-prompt)  
 [3. Travailler avec les environnements virtuels](#travailler-avec-les-environnements-virtuels)  
+[4. A retenir](#a-retenir)
+[5. L'aventure continue avec *Jupyterlab*][#l-aventure-continue-avec-jupyterlab]
+[6. Liens et références](#liens)
 
-## Installer *Conda*
+## 1. Installer *Conda*
 
 [*Conda*](https://docs.conda.io/en/latest/) est un gestionnaire de packages et un système de gestion d'environnement open source. Il va nous permettre de gérer facilement *Python* et ses librairies tierces grâce aux environnements virtuels. Pour l'instant, commençons par [télécharger l'installateur de *Conda* pour *Windows*](https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe).  
 
