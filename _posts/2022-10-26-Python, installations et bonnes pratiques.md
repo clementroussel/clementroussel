@@ -36,7 +36,7 @@ Pour information, un dossier *Miniconda3* a été créé dans votre répertoire 
 Cherchons maintenant à ouvrir un des programmes apparu avec l'installation de *Conda*. Il s'agit du programme *Anaconda Powershell Prompt*. Vous le trouverez facilement dans le *menu Démarrer* de *Windows* en tapant au clavier ses premières lettres.
 
 <div align="center">
-    <img src="{{site.baseurl}}/assets/images/anaconda_powershell_prompt.png" width="512">
+    <img src="{{site.baseurl}}/assets/images/anaconda_powershell_prompt.png">
 </div>
 
 Je vous conseille d'épingler ce programme à votre *barre des tâches* pour y accéder rapidement par la suite.  
@@ -49,8 +49,12 @@ Vérifions dans un premier temps que *Conda* est bien installé en vérifiant sa
 conda --version
 ```
 
+puis tapez sur la touche *Entrée* de votre clavier. Si l'installation s'est bien déroulée, vous devriez voir apparaître en retour de votre commande le numéro de version de *Conda*.
+
+
+
 <div align="center">
-    <img src="{{site.baseurl}}/assets/images/hello_world.png" width="512">
+    <img src="{{site.baseurl}}/assets/images/hello_world.png">
 </div>
 
 ## Environnement virtuel
