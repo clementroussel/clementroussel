@@ -10,6 +10,18 @@ Il existe différents moyens d'installer et de mettre en œuvre le langage de pr
 </div>
 
 **Temps de lecture et de mise en œuvre estimé à 30 minutes**
+---
+
+[1. Conda](#1---Conda)
+[2. Anaconda Powershell Prompt](#2---Anaconda-Powershell-Prompt)
+[3. Environnement virtuel](#3---Environnement-virtuel)
+
+## 1 - Conda
+
+## 2 - Anaconda Powershell Prompt
+
+## 3 - Environnement virtuel
+
 
  *Conda* est un gestionnaire de packages et un système de gestion d'environnement open source. Il permet notamment de créer facilement des **environnements virtuels** associés à différentes versions de *Python*.  
 
