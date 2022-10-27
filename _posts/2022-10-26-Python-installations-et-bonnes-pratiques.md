@@ -81,7 +81,7 @@ Sans surprise, *Python* vous répond en affichant le texte passé en paramètre 
 
 La dernière *instruction* passée à *l'interpréteur Python* ```exit()``` ferme *l'interpréteur Python* et redonne la main sur l'invite de commande.  
 
-Félicitations! *Python* est maintenant installé sur votre ordinateur et vous pouvez y accéder en utilisant l'invite de commande *Anaconda Powershell Prompt* maintenant épinglée à votre barre des tâches. Cependant, je vous ~~oblige~~ invite très fortement à suivre la section suivante pour adopter de bonnes pratiques et être en droit de porter fièrement le T-shirt officiel *Python*.
+Félicitations! *Python* est maintenant installé sur votre ordinateur et vous pouvez y accéder en utilisant *l'Anaconda Powershell Prompt* maintenant épinglée à votre barre des tâches. Cependant, je vous ~~oblige~~ invite très fortement à suivre la section suivante pour adopter de bonnes pratiques et être en droit de porter fièrement le T-shirt officiel *Python*.
 
 <div align="center">
     <img src="{{site.baseurl}}/assets/images/t-shirt.png" height="512">
@@ -119,7 +119,7 @@ Cette commande demande à *Conda* de créer un environnement virtuel nommé *pyt
 #     $ conda deactivate
 ```
 
-Vous l'aurez certainement compris, notre nouvel environnement a bien été créé mais il n'est pas encore *activé*! Pour ce faire, entrez la commande:
+Vous l'aurez certainement compris, notre nouvel environnement a bien été créé mais il n'est pas encore activé! Pour ce faire, entrez la commande:
 
 ```bash
 conda activate python38
@@ -134,7 +134,7 @@ Remarquez que chaque nouvelle ligne de l'invite de commande commance maintenant 
 
 Libre à vous maintenant de faire ce que bon vous semble dans cet environnement virtuel. Tant que chaque ligne de l'invite de commande commence par ```(python38)```, vous êtes assurés d'être dans votre environnement virtuel fraîchement créé et de ne pas polluer l'environnement virtuel par défaut de *Conda*, ni les potentiels autres environnements virtuels créés.  
 
-Installons, par exemple, la plupart des librairies scientifiques tierces:
+Installons, par exemple, quelques librairies scientifiques tierces:
 
 ```bash
 pip install numpy scipy pandas matplotlib
@@ -142,7 +142,7 @@ pip install numpy scipy pandas matplotlib
 
 Ces librairies sont uniquement installées dans l'environnement virtuel actif, à savoir, *python38*. Les autres environnements virtuels ne sont pas impactés.
 
-Dernier élément important avant de conclure cette section, sachez que *Conda* se place par défaut dans son environnement virtuel ```(base)``` à chaque nouveau lancement de *l'Anaconda Powershell Prompt*. N'oubliez donc pas d'activer votre environnement virtuel avant d'installer de nouvelles librairies tierces ou de commencer à travailler avec *Python*.
+Dernier élément important avant de conclure cette section, sachez que *Conda* se place par défaut dans son environnement virtuel ```(base)``` à chaque nouveau lancement de *l'Anaconda Powershell Prompt*. **N'oubliez donc pas d'activer votre environnement virtuel avant d'installer de nouvelles librairies tierces ou de commencer à travailler avec *Python*.**
 
 ## 4. A retenir
 
