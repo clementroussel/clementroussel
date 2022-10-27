@@ -54,12 +54,15 @@ Pour les bobos geek, les hypsters du clavier ou les Beatniks adeptes de la trott
 
 ## Installer *jupyter-lab*
 
-    > JupyterLab is the latest web-based interactive development environment for notebooks, code, and data. Its flexible interface allows users to configure and arrange workflows in data science, scientific computing, computational journalism, and machine learning. A modular design invites extensions to expand and enrich functionality. (source: https://jupyter.org/)
+> JupyterLab is the latest web-based interactive development environment for notebooks, code, and data. Its flexible interface allows users to configure and arrange workflows in data science, scientific computing, computational journalism, and machine learning. A modular design invites extensions to expand and enrich functionality. (source: https://jupyter.org/)
 
 <div align="center">
     <img src="{{site.baseurl}}/assets/images/jupyterlab_screenshots.png">
     <p><u>Aperçus de l'environnement de développement interactive (IDE) <i>JupyterLab</i></u></p>
 </div>
+
+
+
 
 ## Apprendre
 
