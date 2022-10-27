@@ -58,9 +58,26 @@ Pour les bobos geek, les hypsters du clavier ou les Beatniks adeptes de la trott
 
 <div align="center">
     <img src="{{site.baseurl}}/assets/images/jupyterlab_screenshots.png">
-    <p><u>Aperçus de l'environnement de développement interactive (IDE) <i>JupyterLab</i></u></p>
+    <p><u>Aperçus de l'environnement de développement interactif (IDE) <i>JupyterLab</i></u></p>
 </div>
 
+Dans *l'Anaconda Powsershell Prompt*, activez l'environnement virtuel *python38*:
+
+```bash
+conda activate python38
+```
+
+Puis, installez *JupyterLab*:
+
+```bash
+pip install jupyterlab
+```
+
+Enfin, lancez *JupterLab*:
+
+```bash
+jupyter-lab
+```
 
 
 
