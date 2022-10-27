@@ -19,7 +19,7 @@ Cet article fait suite à celui intitulé [Python - installation & bonnes pratiq
 
 Il est nécessaire d'avoir lu et mis en œuvre l'article [Python - installation & bonnes pratiques](https://clementroussel.github.io/clementroussel/2022/10/26/Python-installations-et-bonnes-pratiques.html) avant de pouvoir suivre paisiblement cet article.
 
-## Fini avec cet horrible *Anaconda Powershell Prompt* ?
+## 2. Fini avec cet horrible *Anaconda Powershell Prompt* ?
 
 Et non. Désolé.  
 
@@ -58,7 +58,7 @@ python mon_script.py
 Les puristes s'arrêteront ici car finalement, le Bloc-notes *Windows* et *l'Anaconda Powershell Prompt* suffisent amplement pour travailler avec le langage de programmation *Python*.  
 Pour les bobos geek, les hypsters du clavier ou les Beatniks adeptes de la trottinnette électrique, il existe une solution bien plus *sexy* pour **écrire**, **documenter**, **partager**, **présenter**..., son code *Python*.
 
-## Installer *jupyter-lab*
+## 3. Installer *jupyter-lab*
 
 **Une brève introduction à *JupyterLab*...**
 
@@ -91,7 +91,7 @@ jupyter-lab
 
 La prise en main de *JupyterLab* mériterait un article à elle seule. Je vous oriente donc vers la section [Liens et références](#liens-et-références) pour vous former à la magie de *JupyterLab*.
 
-## A retenir
+## 4. A retenir
 
 - *JupyterLab* est un environnement de développement interactif;
 - On utilise *l'Anaconda Powershell Prompt* pour:
@@ -105,7 +105,7 @@ La prise en main de *JupyterLab* mériterait un article à elle seule. Je vous o
     ```
 - Passer du statut de Moldus à celui de Maître Jedi en utilisant *JupyterLab*! 
 
-## Liens et références
+## 5. Liens et références
 
 - [JupyterLab : l'interface Web Jupyter de nouvelle génération](https://youtu.be/ctOM-Gza04Y)  
 - [JupyterLab : L'évolution du bloc-notes Jupyter](https://youtu.be/NSiPeoDpwuI)  
