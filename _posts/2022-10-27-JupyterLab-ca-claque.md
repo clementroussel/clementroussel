@@ -89,7 +89,7 @@ Enfin, lancez *JupyterLab*:
 jupyter-lab
 ```
 
-La prise en main de *JupyterLab* mériterait un article à elle seule. Je vous oriente donc vers la section [Liens et références](#liens-et-références) pour vous former à la magie de *JupyterLab*.
+La prise en main de *JupyterLab* mériterait un article à elle seule. Je vous oriente donc vers la section [Liens et références](#5-liens-et-références) pour vous former à la magie de *JupyterLab*.
 
 ## 4. A retenir
 
