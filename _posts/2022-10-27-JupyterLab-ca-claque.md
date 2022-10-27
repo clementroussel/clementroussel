@@ -49,6 +49,9 @@ python mon_script.py
     <p><u>Le Bloc-notes <i>Windows</i> et <i>l'Anaconda Powershell Prompt</i> suffisent pour développer en <i>Python</i>.</u></p>
 </div>
 
+Les puristes s'arrêteront ici car finalement, le Bloc-notes *Windows* et *l'Anaconda Powershell Prompt* suffisent amplement pour travailler avec le langage de programmation *Python*.  
+Pour les bobos geek, les hypsters du clavier ou les Beatniks adeptes de la trottinnette électrique, il existe une solution bien plus *sexy* pour **écrire**, **documenter**, **partager**, **présenter**..., son code *Python*.
+
 ## Installer *jupyter-lab*
 
 ## Apprendre
