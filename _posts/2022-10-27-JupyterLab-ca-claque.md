@@ -97,6 +97,7 @@ La prise en main de *JupyterLab* mériterait un article à elle seule. Je vous o
     ```bash
     jupyter-lab
     ```
+- Prendre l'habitude de travailler avec *JupyterLab*, c'est 
 
 ## Liens et références
 
