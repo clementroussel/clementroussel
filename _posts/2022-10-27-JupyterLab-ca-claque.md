@@ -9,11 +9,11 @@ Cet article fait suite à celui intitulé [Python - installation & bonnes pratiq
 
 ---
 
-[1. Prérequis](#1-prerequis)
-[2. Fini avec cet horrible *Anaconda Powershell Prompt* ?](#2-fini-avec-cet-horrible-anaconda-powershell-prompt-?)
-[3. Installer *JupyterLab*](#3-installer-jupyter-lab)
-[4. A retenir](#4-a-retenir)
-[5. Liens et références](#5-liens-et-references)
+[1. Prérequis](#1-prerequis)  
+[2. Fini avec cet horrible *Anaconda Powershell Prompt* ?](#2-fini-avec-cet-horrible-anaconda-powershell-prompt-?)  
+[3. Installer *JupyterLab*](#3-installer-jupyter-lab)  
+[4. A retenir](#4-a-retenir)  
+[5. Liens et références](#5-liens-et-references)  
 
 ## 1. Prérequis
 
