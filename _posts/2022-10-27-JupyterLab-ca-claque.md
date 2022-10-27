@@ -58,7 +58,7 @@ python mon_script.py
 Les puristes s'arrêteront ici car finalement, le Bloc-notes *Windows* et *l'Anaconda Powershell Prompt* suffisent amplement pour travailler avec le langage de programmation *Python*.  
 Pour les bobos geek, les hypsters du clavier ou les Beatniks adeptes de la trottinnette électrique, il existe une solution bien plus *sexy* pour **écrire**, **documenter**, **partager**, **présenter**..., son code *Python*.
 
-## 3. Installer *jupyterLab*
+## 3. Installer *JupyterLab*
 
 **Une brève introduction à *JupyterLab*...**
 
