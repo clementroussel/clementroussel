@@ -34,19 +34,19 @@ conda activate python38
 pip install numpy scipy pandas matplotlib
 ```
 
-- de lancer l'interpréteur de commande *Python*:
+- lancer l'interpréteur de commande *Python*:
 ```bash
 python
 ```
 
-Nous pourrions également exécuter des scripts *Python* édités depuis le Bloc-notes de *Windows* par exemple:
+Nous pourrions également y exécuter des scripts *Python* édités depuis le Bloc-notes de *Windows* par exemple:
 ```bash
 python mon_script.py
 ```
 
 <div align="center">
     <img src="{{site.baseurl}}/assets/images/bonjour_le_monde.png">
-    <p><u>Le Bloc-notes <i>Windows</i> et <i>l'Anaconda Powershell Prompt</i> suffisent pour développer en *Python*.</u></p>
+    <p><u>Le Bloc-notes <i>Windows</i> et <i>l'Anaconda Powershell Prompt</i> suffisent pour développer en <i>Python</i>.</u></p>
 </div>
 
 ## Installer *jupyter-lab*
