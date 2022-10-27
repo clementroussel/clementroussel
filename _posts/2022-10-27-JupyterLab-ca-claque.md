@@ -57,8 +57,8 @@ Pour les bobos geek, les hypsters du clavier ou les Beatniks adeptes de la trott
     > JupyterLab is the latest web-based interactive development environment for notebooks, code, and data. Its flexible interface allows users to configure and arrange workflows in data science, scientific computing, computational journalism, and machine learning. A modular design invites extensions to expand and enrich functionality. (source: https://jupyter.org/)
 
 <div align="center">
-    <img src="{{site.baseurl}}/assets/images/bonjour_le_monde.png">
-    <p><u>Le Bloc-notes <i>Windows</i> et <i>l'Anaconda Powershell Prompt</i> suffisent pour développer en <i>Python</i>.</u></p>
+    <img src="{{site.baseurl}}/assets/images/jupyterlab_screenshots.png">
+    <p><u>Aperçus de l'environnement de développement interactive (IDE) <i>JupyterLab</i></u></p>
 </div>
 
 ## Apprendre
