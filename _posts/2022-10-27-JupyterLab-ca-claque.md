@@ -111,4 +111,4 @@ La prise en main de *JupyterLab* mériterait un article à elle seule. Je vous o
 - [JupyterLab : L'évolution du bloc-notes Jupyter](https://youtu.be/NSiPeoDpwuI)  
 - [Getting Started with JupyterLab - SciPy 2019 Tutorial](https://youtu.be/RFabWieskak)
 - [Documentation officielle de *JupyterLab*](https://jupyterlab.readthedocs.io/en/stable/index.html)  
-- [Guide Markown](https://www.markdownguide.org/)
+- [Guide Markdown](https://www.markdownguide.org/)
