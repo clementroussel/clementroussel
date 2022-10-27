@@ -21,7 +21,7 @@ Il est nécessaire d'avoir lu et mis en œuvre l'article [Python - installation 
 
 ## 2. Fini avec cet horrible *Anaconda Powershell Prompt*?
 
-Et non. Désolé.  
+Non. Désolé.  
 
 *L'Anaconda Powershell Prompt* reste le point d'entrée inévitable pour travailler avec *Conda* et *Python*. Pour rappel, cet outil nous avait permis de:
 
