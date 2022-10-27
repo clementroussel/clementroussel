@@ -54,12 +54,16 @@ Pour les bobos geek, les hypsters du clavier ou les Beatniks adeptes de la trott
 
 ## Installer *jupyter-lab*
 
+**Une brève introduction à *JupyterLab*...**
+
 > JupyterLab is the latest web-based interactive development environment for notebooks, code, and data. Its flexible interface allows users to configure and arrange workflows in data science, scientific computing, computational journalism, and machine learning. A modular design invites extensions to expand and enrich functionality. (source: https://jupyter.org/)
 
 <div align="center">
     <img src="{{site.baseurl}}/assets/images/jupyterlab_screenshots.png">
     <p><u>Aperçus de l'environnement de développement interactif (IDE) <i>JupyterLab</i></u></p>
 </div>
+
+**..avant de procéder à son installation.**
 
 Dans *l'Anaconda Powsershell Prompt*, activez l'environnement virtuel *python38*:
 
@@ -73,16 +77,24 @@ Puis, installez *JupyterLab*:
 pip install jupyterlab
 ```
 
-Enfin, lancez *JupterLab*:
+Enfin, lancez *JupyterLab*:
 
 ```bash
 jupyter-lab
 ```
-
-
-
-## Apprendre
+La prise en main de *JupyterLab* mériterait un article à elle seule. Je vous oriente donc vers la section [Liens et références](#liens-et-références) pour découvrir et vous former à la magie de *JupyterLab*.
 
 ## A retenir
+
+- *JupyterLab* est un environnement de développement interactif;
+- On utilise *l'Anaconda Powershell Prompt* pour:
+    - l'installer dans un environnement virtuel:
+    ```bash
+    pip install jupyterlab
+    ```
+    - le lancer:
+    ```bash
+    jupyter-lab
+    ```
 
 ## Liens et références
