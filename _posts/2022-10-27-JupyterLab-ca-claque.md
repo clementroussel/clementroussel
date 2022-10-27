@@ -39,7 +39,7 @@ pip install numpy scipy pandas matplotlib
 python
 ```
 
-Nous pourrions également y exécuter des scripts *Python* édités depuis le Bloc-notes de *Windows* par exemple:
+Nous pourrions également y exécuter des scripts *Python* édités depuis le Bloc-notes de *Windows*:
 ```bash
 python mon_script.py
 ```
@@ -82,6 +82,7 @@ Enfin, lancez *JupyterLab*:
 ```bash
 jupyter-lab
 ```
+
 La prise en main de *JupyterLab* mériterait un article à elle seule. Je vous oriente donc vers la section [Liens et références](#liens-et-références) pour découvrir et vous former à la magie de *JupyterLab*.
 
 ## A retenir
@@ -98,3 +99,7 @@ La prise en main de *JupyterLab* mériterait un article à elle seule. Je vous o
     ```
 
 ## Liens et références
+
+- [JupyterLab : l'interface Web Jupyter de nouvelle génération](https://youtu.be/ctOM-Gza04Y)  
+- [JupyterLab : L'évolution du bloc-notes Jupyter](https://youtu.be/NSiPeoDpwuI)
+- [Documentation officielle de *JupyterLab*](https://jupyterlab.readthedocs.io/en/stable/index.html)
