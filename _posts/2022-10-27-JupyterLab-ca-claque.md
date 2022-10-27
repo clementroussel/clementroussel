@@ -101,5 +101,6 @@ La prise en main de *JupyterLab* mériterait un article à elle seule. Je vous o
 ## Liens et références
 
 - [JupyterLab : l'interface Web Jupyter de nouvelle génération](https://youtu.be/ctOM-Gza04Y)  
-- [JupyterLab : L'évolution du bloc-notes Jupyter](https://youtu.be/NSiPeoDpwuI)
-- [Documentation officielle de *JupyterLab*](https://jupyterlab.readthedocs.io/en/stable/index.html)
+- [JupyterLab : L'évolution du bloc-notes Jupyter](https://youtu.be/NSiPeoDpwuI)  
+- [Documentation officielle de *JupyterLab*](https://jupyterlab.readthedocs.io/en/stable/index.html)  
+- [Guide Markown](https://www.markdownguide.org/)
