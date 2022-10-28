@@ -161,7 +161,7 @@ Dernier élément important avant de conclure cette section, sachez que *Conda* 
 
 ## 5. L'aventure continue avec *JupyterLab*
 
-L'invite de commande ne vous plaît pas ou vous aimeriez passer au statut de ~~Jedi~~ *Python* master ? C'est par ici que ça se passe: [JupyterLab, ça claque!](https://clementroussel.github.io/clementroussel/2022/10/27/JupyterLab-ca-claque.html)
+*L'Anaconda Powershell Prompt* ne vous plaît pas ou peut-être aimeriez-vous passer au statut de ~~Jedi~~ *Python* master ? C'est par ici que ça se passe: [JupyterLab, ça claque!](https://clementroussel.github.io/clementroussel/2022/10/27/JupyterLab-ca-claque.html)
 
 ## 6. Liens et références
 
