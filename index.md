@@ -33,6 +33,7 @@ layout: home
   <img src="icons/matplotlib.png" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
   <img src="icons/numpy.png" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
   <img src="icons/pandas.png" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+  <img src="icons/pypi.png" title="Pypi" alt="Pypi" width="40" height="40"/>&nbsp;
   <img src="icons/python.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="icons/qgis.png" title="QGIS" alt="QGIS" width="40" height="40"/>&nbsp;
   <img src="icons/qt.png" title="Qt" alt="Qt" width="40" height="40"/>&nbsp;
