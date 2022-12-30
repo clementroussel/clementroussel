@@ -31,3 +31,11 @@ Le lien entre notre ordinateur local et ce dépôt distant hébergé sur la plat
 
 En ligne le projet est accessible à l'url: https://github.com/clementroussel/pyCross.
 
+### 2.1. Licence
+
+Le premier fichier présent dans le dépôt *GitHub* contient les termes de la license attachée à notre nouveau projet. Il est simplement nommé *LICENSE*.  
+
+Choisir la licence adéquate: [Choose a license](https://choosealicense.com/).
+
+Ici, nous choississons les termes de la [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/).
+
