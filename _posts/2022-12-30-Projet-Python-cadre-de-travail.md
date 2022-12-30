@@ -7,6 +7,12 @@ Mémo sur la mise en place d'un cadre de travail pour le développement d'un pro
 
 ---
 
+[1. Nouveau projet](#1-Nouveau-projet)
+[2. GitHub](#2-GitHub)
+[3. Conda](#3-Conda)
+[4. Documentation web](#4-Documentation-web)
+[5. Documentation API](#5-Documentation-API)
+
 ## 1. Nouveau projet
 
 <div id="header" align="center">
@@ -39,7 +45,7 @@ Mémo sur la mise en place d'un cadre de travail pour le développement d'un pro
 - [Choose a license](https://choosealicense.com/)
 - [*Markdown*](https://www.markdownguide.org/)
 
-Le dépôt *GitHub* est accessible à l'url: https://github.com/clementroussel/pyCross.
+Le dépôt *GitHub* du projet est accessible à l'url: [github.com/clementroussel/pyCross](https://github.com/clementroussel/pyCross).
 
 ### 3. Conda 
 
@@ -58,7 +64,7 @@ Le dépôt *GitHub* est accessible à l'url: https://github.com/clementroussel/p
 **Liens:**  
 - [Conda](https://docs.conda.io/en/latest/)
 
-## 4. Documentation (site internet)
+## 4. Documentation web
 
 <div id="header" align="center">
   <img src="{{site.baseurl}}/assets/icons/readthedocs.png" title="Readthedocs" alt="Readthedocs" width="40" height="40"/>&nbsp;
@@ -74,7 +80,7 @@ Le dépôt *GitHub* est accessible à l'url: https://github.com/clementroussel/p
 - [Sphinx](https://www.sphinx-doc.org/en/master/)
 - [Readthedocs](https://readthedocs.org/)
 
-## 5. Documentation (notebooks)
+## 5. Documentation API
 
 <div id="header" align="center">
   <img src="{{site.baseurl}}/assets/icons/jupyter.png" title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp;
