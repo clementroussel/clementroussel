@@ -37,9 +37,9 @@ Mémo sur la mise en place d'un cadre de travail pour le développement d'un pro
 ---
 
 - à l'aide de *GitHub Desktop*, initialisation d'un nouveau dépôt *pyCross*:
-    - avec un fichier README;
-    - avec une license GNU-GPLv3;
-    - sans fichier .gitignore.
+    - avec un fichier README
+    - avec une license GNU-GPLv3
+    - sans fichier .gitignore
 
 **Liens:**  
 - [GitHub](https://github.com/)
@@ -75,8 +75,8 @@ Le dépôt *GitHub* du projet est accessible à l'url: [github.com/clementrousse
 
 ---
 
-- répertoire *docs/*;
-- fichier *readthedocs.yaml*.
+- répertoire *docs/*
+- fichier *readthedocs.yaml*
 
 **Liens:**  
 - [Sphinx](https://www.sphinx-doc.org/en/master/)
@@ -90,7 +90,7 @@ Le dépôt *GitHub* du projet est accessible à l'url: [github.com/clementrousse
 
 ---
 
-- répertoire *notebooks/*.
+- répertoire *notebooks/*
 
 **Liens:**  
 - [Jupyter](https://jupyter.org/)
@@ -105,7 +105,7 @@ Le dépôt *GitHub* du projet est accessible à l'url: [github.com/clementrousse
 
 ---
 
-- répertoire *src/*;
+- répertoire *src/*
 
 **Liens:**  
 - [fbs](https://build-system.fman.io/)
