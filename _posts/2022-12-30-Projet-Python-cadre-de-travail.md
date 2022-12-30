@@ -25,3 +25,9 @@ Que pouvons-nous imaginer à l'intérieur de ce projet ?
   <img src="{{site.baseurl}}/assets/icons/github.png" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
 </div>
 
+La première étape consiste à créer un dépôt *GitHub* sur lequel sera hébergé l'intégralité du code ainsi que la documentation du projet.  
+
+Le lien entre notre ordinateur local et ce dépôt distant hébergé sur la plateforme *GitHub*, peut se faire avec le logiciel [*GitHub Desktop*](https://desktop.github.com/).  
+
+En ligne le projet est accessible à l'url: https://github.com/clementroussel/pyCross.
+
