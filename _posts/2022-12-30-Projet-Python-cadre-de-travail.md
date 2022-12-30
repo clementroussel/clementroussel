@@ -15,7 +15,7 @@ Mémo sur la mise en place d'un cadre de travail pour le développement d'un pro
 
 [1. Nouveau projet](#1-nouveau-projet)  
 [2. GitHub](#2-github)  
-[3. Conda](#3-conda)
+[3. Conda](#3-conda)  
 [4. Modules Python](#4-modules-python)  
 [5. Documentation web](#4-documentation-web)  
 [6. Documentation API](#5-documentation-api)  
