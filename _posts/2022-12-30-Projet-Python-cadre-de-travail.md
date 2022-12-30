@@ -25,6 +25,8 @@ Que pouvons-nous imaginer à l'intérieur de ce projet ?
   <img src="{{site.baseurl}}/assets/icons/github.png" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
 </div>
 
+---
+
 La première étape consiste à créer un dépôt *GitHub* sur lequel sera hébergé l'intégralité du code ainsi que la documentation du projet.  
 
 Le lien entre notre ordinateur local et ce dépôt distant hébergé sur la plateforme *GitHub*, peut se faire avec le logiciel [*GitHub Desktop*](https://desktop.github.com/).  
@@ -38,4 +40,10 @@ Le premier fichier présent dans le dépôt *GitHub* contient les termes de la l
 Choisir la licence adéquate: [Choose a license](https://choosealicense.com/).
 
 Ici, nous choississons les termes de la [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/).
+
+### 2.2. Lisez-moi
+
+Le deuxième fichier présent dans le dépôt *GitHub* est le fichier *README.md*. Son contenu est écrit en [*Markdown*](https://www.markdownguide.org/), un langage de balisage léger facile à appréhender. Il sera affiché lorsque l'on accède au dépôt du projet en ligne et joue donc le rôle de page d'accueil du projet.  
+
+C'est l'emplacement idéal pour aider les développeurs et contributeurs du projet à reconstruire eux-mêmes les différentes couches du projet (code source, interface graphique et documentation).
 
