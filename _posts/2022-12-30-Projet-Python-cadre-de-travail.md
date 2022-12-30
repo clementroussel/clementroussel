@@ -47,3 +47,15 @@ Le deuxième fichier présent dans le dépôt *GitHub* est le fichier *README.md
 
 C'est l'emplacement idéal pour aider les développeurs et contributeurs du projet à reconstruire eux-mêmes les différentes couches du projet (code source, interface graphique et documentation).
 
+### 3. Conda 
+
+<div id="header" align="center">
+  <img src="{{site.baseurl}}/assets/icons/conda.png" title="Conda" alt="Conda" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+
+## 4. Arborescence des dossiers
+
+L'arborescence des dossiers nous est dictée par le module *Python* nommé [*fbs*](https://build-system.fman.io/) qui a la lourde charge de produire un exécutable permettant à tous de pouvoir travailler avec un logiciel interfacé sur son ordinateur.
