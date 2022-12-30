@@ -7,13 +7,13 @@ Mémo sur la mise en place d'un cadre de travail pour le développement d'un pro
 
 ---
 
-[1. Nouveau projet](#1-Nouveau-projet)  
-[2. GitHub](#2-GitHub)  
-[3. Conda](#3-Conda)  
-[4. Documentation web](#4-Documentation-web)  
-[5. Documentation API](#5-Documentation-API)  
-[6. PyQt](#6-PyQt)  
-[7. PyPI](#7-PyPI)  
+[1. Nouveau projet](#1-nouveau-projet)  
+[2. GitHub](#2-github)  
+[3. Conda](#3-conda)  
+[4. Documentation web](#4-documentation-web)  
+[5. Documentation API](#5-documentation-api)  
+[6. PyQt](#6-pyqt)  
+[7. PyPI](#7-pypi)  
 
 ## 1. Nouveau projet
 
@@ -49,7 +49,7 @@ Mémo sur la mise en place d'un cadre de travail pour le développement d'un pro
 
 Le dépôt *GitHub* du projet est accessible à l'url: [github.com/clementroussel/pyCross](https://github.com/clementroussel/pyCross).
 
-### 3. Conda 
+## 3. Conda 
 
 <div id="header" align="center">
   <img src="{{site.baseurl}}/assets/icons/conda.png" title="Conda" alt="Conda" width="40" height="40"/>&nbsp;
