@@ -7,13 +7,13 @@ Mémo sur la mise en place d'un cadre de travail pour le développement d'un pro
 
 ---
 
-[1. Nouveau projet](#1-Nouveau-projet)
-[2. GitHub](#2-GitHub)
-[3. Conda](#3-Conda)
-[4. Documentation web](#4-Documentation-web)
-[5. Documentation API](#5-Documentation-API)
-[6. PyQt](#6-PyQt)
-[7. PyPI](#7-PyPI)
+[1. Nouveau projet](#1-Nouveau-projet)  
+[2. GitHub](#2-GitHub)  
+[3. Conda](#3-Conda)  
+[4. Documentation web](#4-Documentation-web)  
+[5. Documentation API](#5-Documentation-API)  
+[6. PyQt](#6-PyQt)  
+[7. PyPI](#7-PyPI)  
 
 ## 1. Nouveau projet
 
