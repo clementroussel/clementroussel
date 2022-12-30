@@ -30,7 +30,7 @@ Mémo sur la mise en place d'un cadre de travail pour le développement d'un pro
 
 ---
 
-- nom du projet: **pyCrossSection**
+- nom du projet: **Cross Profile (cross-profile)**
 
 **Liens:**  
 - logo: [Icon archives](https://iconarchive.com/).
@@ -54,7 +54,7 @@ Mémo sur la mise en place d'un cadre de travail pour le développement d'un pro
 - [Choose a license](https://choosealicense.com/)
 - [*Markdown*](https://www.markdownguide.org/)
 
-Le dépôt *GitHub* du projet est accessible à l'url: [github.com/clementroussel/pyCrossSection](https://github.com/clementroussel/pyCrossSection).
+Le dépôt *GitHub* du projet est accessible à l'url: [github.com/clementroussel/cross-profile](https://github.com/clementroussel/cross-profile).
 
 ## 3. Conda 
 
@@ -64,7 +64,7 @@ Le dépôt *GitHub* du projet est accessible à l'url: [github.com/clementrousse
 
 ---
 
-- création d'un environnement virtuel *pyCross*
+- création d'un environnement virtuel *cross-profile*
 
 **Liens:**  
 - [Conda](https://docs.conda.io/en/latest/)
