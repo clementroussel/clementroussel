@@ -43,9 +43,10 @@ Mémo sur la mise en place d'un cadre de travail pour le développement d'un pro
 
 ---
 
-- à l'aide de *GitHub Desktop*, initialisation d'un nouveau dépôt *pyCross*:
-    - avec un fichier README
-    - avec une license GNU-GPLv3
+- initialisation d'un nouveau dépôt *GitHub*
+- création du fichier *README.md*
+- création du fichier *LICENCE*
+- création du fichier *.gitognore*
 
 **Liens:**  
 - [GitHub](https://github.com/)
