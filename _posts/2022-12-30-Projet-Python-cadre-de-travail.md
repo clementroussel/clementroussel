@@ -30,7 +30,7 @@ Mémo sur la mise en place d'un cadre de travail pour le développement d'un pro
 
 ---
 
-- nom du projet: **pyCross**
+- nom du projet: **pyCrossSection**
 
 **Liens:**  
 - logo: [Icon archives](https://iconarchive.com/).
@@ -46,7 +46,7 @@ Mémo sur la mise en place d'un cadre de travail pour le développement d'un pro
 - initialisation d'un nouveau dépôt *GitHub*
 - création du fichier *README.md*
 - création du fichier *LICENCE*
-- création du fichier *.gitognore*
+- création du fichier *.gitignore*
 
 **Liens:**  
 - [GitHub](https://github.com/)
@@ -54,7 +54,7 @@ Mémo sur la mise en place d'un cadre de travail pour le développement d'un pro
 - [Choose a license](https://choosealicense.com/)
 - [*Markdown*](https://www.markdownguide.org/)
 
-Le dépôt *GitHub* du projet est accessible à l'url: [github.com/clementroussel/pyCross](https://github.com/clementroussel/pyCross).
+Le dépôt *GitHub* du projet est accessible à l'url: [github.com/clementroussel/pyCrossSection](https://github.com/clementroussel/pyCrossSection).
 
 ## 3. Conda 
 
