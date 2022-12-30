@@ -12,6 +12,8 @@ Mémo sur la mise en place d'un cadre de travail pour le développement d'un pro
 [3. Conda](#3-Conda)
 [4. Documentation web](#4-Documentation-web)
 [5. Documentation API](#5-Documentation-API)
+[6. PyQt](#6-PyQt)
+[7. PyPI](#7-PyPI)
 
 ## 1. Nouveau projet
 
@@ -21,7 +23,7 @@ Mémo sur la mise en place d'un cadre de travail pour le développement d'un pro
 
 ---
 
-- nom du projet: **pyCross**.
+- nom du projet: **pyCross**
 
 **Liens:**  
 - logo: [Icon archives](https://iconarchive.com/).
@@ -93,4 +95,34 @@ Le dépôt *GitHub* du projet est accessible à l'url: [github.com/clementrousse
 **Liens:**  
 - [Jupyter](https://jupyter.org/)
 - [nbviewer](https://nbviewer.org/)
+
+
+## 6. PyQt
+
+<div id="header" align="center">
+  <img src="{{site.baseurl}}/assets/icons/qt.png" title="qt" alt="qt" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+- répertoire *src/*;
+
+**Liens:**  
+- [fbs](https://build-system.fman.io/)
+- [Qt](https://www.qt.io/)
+
+## 7. PyPI
+
+<div id="header" align="center">
+  <img src="{{site.baseurl}}/assets/icons/pypi.png" title="pypi" alt="pypi" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+- répertoire *dist/*
+- fichier *pyproject.toml*
+
+**Liens:**  
+- [PyPI](https://pypi.org/)
+- [Poetry](https://python-poetry.org/)
 
