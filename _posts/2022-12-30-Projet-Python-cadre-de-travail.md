@@ -3,7 +3,7 @@ layout: post
 title: Projet Python, cadre de travail
 ---
 
-Mémo sur laa mise en place d'un cadre de travail pour le développement d'un projet de développement avec le langage de programmation *Python*.
+Mémo sur la mise en place d'un cadre de travail pour le développement d'un projet de développement avec le langage de programmation *Python*.
 
 ---
 
@@ -15,8 +15,10 @@ Mémo sur laa mise en place d'un cadre de travail pour le développement d'un pr
 
 ---
 
-- nom du projet: **pyCross**;  
-- logo: [icon archives](https://iconarchive.com/).
+- nom du projet: **pyCross**.
+
+**Liens:**  
+- logo: [Icon archives](https://iconarchive.com/).
 
 ## 2. GitHub
 
@@ -29,7 +31,7 @@ Mémo sur laa mise en place d'un cadre de travail pour le développement d'un pr
 - à l'aide de *GitHub Desktop*, initialisation d'un nouveau dépôt *pyCross*:
     - avec un fichier README;
     - avec une license GNU-GPLv3;
-    - sans fichier .gitignore
+    - sans fichier .gitignore.
 
 **Liens:**  
 - [GitHub](https://github.com/)
@@ -48,13 +50,41 @@ Le dépôt *GitHub* est accessible à l'url: https://github.com/clementroussel/p
 ---
 
 - à l'aide de *Conda*, création de plusieurs environnements virtuels:
-    - *pyCross*
-
-On utilise [*Conda*](https://docs.conda.io/en/latest/) pour créer nos environnements virtuels et gérer les dépendances de notre projet:  
-- un premier environnement virtuel nommé *pyCross* dédié à la librairie *Python* et à l'interface graphique de notre projet;
-- un second environnement virtuel nommé *pyCross-docs* dédié à la documentation (site internet) de notre projet.
+    - *pyCross-backend*
+    - *pyCross-frontend*
+    - *pyCross-docs*
 
 
-## 4. Arborescence des dossiers
+**Liens:**  
+- [Conda](https://docs.conda.io/en/latest/)
 
-L'arborescence des dossiers nous est dictée par le module *Python* nommé [*fbs*](https://build-system.fman.io/) qui a la lourde charge de produire un exécutable permettant à tous de pouvoir travailler avec un logiciel interfacé sur son ordinateur.
+## 4. Documentation (site internet)
+
+<div id="header" align="center">
+  <img src="{{site.baseurl}}/assets/icons/readthedocs.png" title="Readthedocs" alt="Readthedocs" width="40" height="40"/>&nbsp;
+  <img src="{{site.baseurl}}/assets/icons/sphinx.png" title="sphinx" alt="sphinx" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+- répertoire *docs/*;
+- fichier *readthedocs.yaml*.
+
+**Liens:**  
+- [Sphinx](https://www.sphinx-doc.org/en/master/)
+- [Readthedocs](https://readthedocs.org/)
+
+## 5. Documentation (notebooks)
+
+<div id="header" align="center">
+  <img src="{{site.baseurl}}/assets/icons/jupyter.png" title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+- répertoire *notebooks/*.
+
+**Liens:**  
+- [Jupyter](https://jupyter.org/)
+- [nbviewer](https://nbviewer.org/)
+
