@@ -27,25 +27,18 @@ Que pouvons-nous imaginer à l'intérieur de ce projet ?
 
 ---
 
-La première étape consiste à créer un dépôt *GitHub* sur lequel sera hébergé l'intégralité du code ainsi que la documentation du projet.  
+- à l'aide de *GitHub Desktop*, initialisation d'un nouveau dépôt *pyCross*:
+    - avec un fichier README;
+    - avec une license GNU-GPLv3;
+    - sans fichier .gitignore
 
-Le lien entre notre ordinateur local et ce dépôt distant hébergé sur la plateforme *GitHub*, peut se faire avec le logiciel [*GitHub Desktop*](https://desktop.github.com/).  
+**Liens:**  
+- [GitHub](https://github.com/)
+- [GitHub Desktop](https://desktop.github.com/)
+- [Choose a license](https://choosealicense.com/)
+- [*Markdown*](https://www.markdownguide.org/)
 
-En ligne le projet est accessible à l'url: https://github.com/clementroussel/pyCross.
-
-### 2.1. Licence
-
-Le premier fichier présent dans le dépôt *GitHub* contient les termes de la license attachée à notre nouveau projet. Il est simplement nommé *LICENSE*.  
-
-Choisir la licence adéquate: [Choose a license](https://choosealicense.com/).
-
-Ici, nous choississons les termes de la [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/).
-
-### 2.2. Lisez-moi
-
-Le deuxième fichier présent dans le dépôt *GitHub* est le fichier *README.md*. Son contenu est écrit en [*Markdown*](https://www.markdownguide.org/), un langage de balisage léger facile à appréhender. Il sera affiché lorsque l'on accède au dépôt du projet en ligne et joue donc le rôle de page d'accueil du projet.  
-
-C'est l'emplacement idéal pour aider les développeurs et contributeurs du projet à reconstruire eux-mêmes les différentes couches du projet (code source, interface graphique et documentation).
+Le dépôt *GitHub* est accessible à l'url: https://github.com/clementroussel/pyCross.
 
 ### 3. Conda 
 
@@ -54,6 +47,13 @@ C'est l'emplacement idéal pour aider les développeurs et contributeurs du proj
 </div>
 
 ---
+
+- à l'aide de *Conda*, création de plusieurs environnements virtuels:
+    - *pyCross*
+
+On utilise [*Conda*](https://docs.conda.io/en/latest/) pour créer nos environnements virtuels et gérer les dépendances de notre projet:  
+- un premier environnement virtuel nommé *pyCross* dédié à la librairie *Python* et à l'interface graphique de notre projet;
+- un second environnement virtuel nommé *pyCross-docs* dédié à la documentation (site internet) de notre projet.
 
 
 ## 4. Arborescence des dossiers
