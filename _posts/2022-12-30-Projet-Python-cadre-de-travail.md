@@ -67,6 +67,19 @@ Le dépôt *GitHub* du projet est accessible à l'url: [github.com/clementrousse
 **Liens:**  
 - [Conda](https://docs.conda.io/en/latest/)
 
+## 4. Modules Python
+
+<div id="header" align="center">
+  <img src="{{site.baseurl}}/assets/icons/matplotlib.png" title="matplotlib" alt="matplotlib" width="40" height="40"/>&nbsp;
+  <img src="{{site.baseurl}}/assets/icons/numpy.png" title="numpy" alt="numpy" width="40" height="40"/>&nbsp;
+  <img src="{{site.baseurl}}/assets/icons/pandas.png" title="pandas" alt="pandas" width="40" height="40"/>&nbsp;
+  <img src="{{site.baseurl}}/assets/icons/scipy.png" title="scipy" alt="scipy" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+- ajout des modules scientifiques *matplotlib*, *numpy*, *pandas*, *scipy*
+
 ## 4. Documentation web
 
 <div id="header" align="center">
