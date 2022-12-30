@@ -56,11 +56,7 @@ Le dépôt *GitHub* du projet est accessible à l'url: [github.com/clementrousse
 
 ---
 
-- à l'aide de *Conda*, création de plusieurs environnements virtuels:
-    - *pyCross-backend*
-    - *pyCross-frontend*
-    - *pyCross-docs*
-
+- création d'un environnement virtuel *pyCross*
 
 **Liens:**  
 - [Conda](https://docs.conda.io/en/latest/)
