@@ -15,11 +15,12 @@ Mémo sur la mise en place d'un cadre de travail pour le développement d'un pro
 
 [1. Nouveau projet](#1-nouveau-projet)  
 [2. GitHub](#2-github)  
-[3. Conda](#3-conda)  
-[4. Documentation web](#4-documentation-web)  
-[5. Documentation API](#5-documentation-api)  
-[6. PyQt](#6-pyqt)  
-[7. PyPI](#7-pypi)  
+[3. Conda](#3-conda)
+[4. Modules Python](#4-modules-python)  
+[5. Documentation web](#4-documentation-web)  
+[6. Documentation API](#5-documentation-api)  
+[7. PyQt](#6-pyqt)  
+[8. PyPI](#7-pypi)  
 
 ## 1. Nouveau projet
 
@@ -80,7 +81,13 @@ Le dépôt *GitHub* du projet est accessible à l'url: [github.com/clementrousse
 
 - ajout des modules scientifiques *matplotlib*, *numpy*, *pandas*, *scipy*
 
-## 4. Documentation web
+**Liens:**
+- [matplotlib](https://matplotlib.org/)
+- [numpy](https://numpy.org/)
+- [pandas](https://pandas.pydata.org/)
+- [scipy](https://scipy.org/)
+
+## 5. Documentation web
 
 <div id="header" align="center">
   <img src="{{site.baseurl}}/assets/icons/readthedocs.png" title="Readthedocs" alt="Readthedocs" width="40" height="40"/>&nbsp;
@@ -96,7 +103,7 @@ Le dépôt *GitHub* du projet est accessible à l'url: [github.com/clementrousse
 - [Sphinx](https://www.sphinx-doc.org/en/master/)
 - [Readthedocs](https://readthedocs.org/)
 
-## 5. Documentation API
+## 6. Documentation API
 
 <div id="header" align="center">
   <img src="{{site.baseurl}}/assets/icons/jupyter.png" title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp;
@@ -111,7 +118,7 @@ Le dépôt *GitHub* du projet est accessible à l'url: [github.com/clementrousse
 - [nbviewer](https://nbviewer.org/)
 
 
-## 6. PyQt
+## 7. PyQt
 
 <div id="header" align="center">
   <img src="{{site.baseurl}}/assets/icons/qt.png" title="qt" alt="qt" width="40" height="40"/>&nbsp;
@@ -125,7 +132,7 @@ Le dépôt *GitHub* du projet est accessible à l'url: [github.com/clementrousse
 - [fbs](https://build-system.fman.io/)
 - [Qt](https://www.qt.io/)
 
-## 7. PyPI
+## 8. PyPI
 
 <div id="header" align="center">
   <img src="{{site.baseurl}}/assets/icons/pypi.png" title="pypi" alt="pypi" width="40" height="40"/>&nbsp;
