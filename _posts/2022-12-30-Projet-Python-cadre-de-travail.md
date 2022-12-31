@@ -40,7 +40,7 @@ Mémo sur la mise en place d'un cadre de travail pour le développement d'un pro
   <img src="{{site.baseurl}}/assets/icons/github.png" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
 </div>
 
-</br>
+<br/><br/>
 
 - initialisation d'un nouveau dépôt *GitHub*
 - création du fichier *README.md*
@@ -59,7 +59,7 @@ Mémo sur la mise en place d'un cadre de travail pour le développement d'un pro
   <img src="{{site.baseurl}}/assets/icons/conda.png" title="Conda" alt="Conda" width="40" height="40"/>&nbsp;
 </div>
 
-</br>
+<br/><br/>
 
 - création d'un environnement virtuel *cross-profile*
 
@@ -75,7 +75,7 @@ Mémo sur la mise en place d'un cadre de travail pour le développement d'un pro
   <img src="{{site.baseurl}}/assets/icons/scipy.png" title="scipy" alt="scipy" width="40" height="40"/>&nbsp;
 </div>
 
-</br>
+<br/><br/>
 
 - ajout des modules scientifiques *matplotlib*, *numpy*, *pandas*, *scipy*
 
@@ -92,7 +92,7 @@ Mémo sur la mise en place d'un cadre de travail pour le développement d'un pro
   <img src="{{site.baseurl}}/assets/icons/sphinx.png" title="sphinx" alt="sphinx" width="40" height="40"/>&nbsp;
 </div>
 
-</br>
+<br/><br/>
 
 - création du répertoire *docs/*
 - création du fichier *readthedocs.yaml*
@@ -107,7 +107,7 @@ Mémo sur la mise en place d'un cadre de travail pour le développement d'un pro
   <img src="{{site.baseurl}}/assets/icons/jupyter.png" title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp;
 </div>
 
-</br>
+<br/><br/>
 
 - création du répertoire *notebooks/*
 
@@ -122,7 +122,7 @@ Mémo sur la mise en place d'un cadre de travail pour le développement d'un pro
   <img src="{{site.baseurl}}/assets/icons/qt.png" title="qt" alt="qt" width="40" height="40"/>&nbsp;
 </div>
 
-</br>
+<br/><br/>
 
 - création du répertoire *src/*
 
@@ -136,7 +136,7 @@ Mémo sur la mise en place d'un cadre de travail pour le développement d'un pro
   <img src="{{site.baseurl}}/assets/icons/pypi.png" title="pypi" alt="pypi" width="40" height="40"/>&nbsp;
 </div>
 
-</br>
+<br/><br/>
 
 - création du répertoire *dist/*
 - création du fichier *pyproject.toml*
