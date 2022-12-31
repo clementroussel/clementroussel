@@ -43,6 +43,8 @@ Mémo sur la mise en place d'un cadre de travail pour le développement d'un pro
 
 <br/><br/>
 
+> GitHub est un service web d'hébergement et de gestion de développement de logiciels, utilisant le logiciel de gestion de versions Git.
+
 - initialisation d'un nouveau dépôt *GitHub*
 - création du fichier *README.md*
 - création du fichier *LICENCE*
@@ -62,6 +64,8 @@ Mémo sur la mise en place d'un cadre de travail pour le développement d'un pro
 
 <br/><br/>
 
+> Conda est un gestionnaire de packages et un système de gestion d'environnement open source, multiplateforme et indépendant du langage.
+
 - création d'un environnement virtuel *cross-profile*
 
 **Liens:**  
@@ -80,6 +84,14 @@ Mémo sur la mise en place d'un cadre de travail pour le développement d'un pro
 
 - ajout des modules scientifiques *matplotlib*, *numpy*, *pandas*, *scipy*
 
+> Matplotlib est une bibliothèque du langage de programmation Python destinée à tracer et visualiser des données sous forme de graphiques.
+
+> NumPy est une bibliothèque pour langage de programmation Python, destinée à manipuler des matrices ou tableaux multidimensionnels ainsi que des fonctions mathématiques opérant sur ces tableaux.
+
+> Pandas est une bibliothèque écrite pour le langage de programmation Python permettant la manipulation et l'analyse des données.
+
+> SciPy est un projet visant à unifier et fédérer un ensemble de bibliothèques Python à usage scientifique.
+
 **Liens:**
 - [matplotlib](https://matplotlib.org/)
 - [numpy](https://numpy.org/)
@@ -94,6 +106,10 @@ Mémo sur la mise en place d'un cadre de travail pour le développement d'un pro
 </div>
 
 <br/><br/>
+
+> Sphinx est un générateur de documentation libre.
+
+> Read the Docs est une plate-forme d'hébergement de documentation de logiciels gratuits open source. Il génère une documentation écrite avec le générateur de documentation Sphinx.
 
 - création du répertoire *docs/*
 - création du fichier *readthedocs.yaml*
@@ -110,6 +126,8 @@ Mémo sur la mise en place d'un cadre de travail pour le développement d'un pro
 
 <br/><br/>
 
+> Jupyter Notebook est un outil puissant qui permet aux utilisateurs du langage Python de créer et de partager des documents interactifs contenant du code dynamique et exécutable, des visualisations de contenus, des textes de documentation et des équations.
+
 - création du répertoire *notebooks/*
 
 **Liens:**  
@@ -125,6 +143,8 @@ Mémo sur la mise en place d'un cadre de travail pour le développement d'un pro
 
 <br/><br/>
 
+> PyQt est un module libre qui permet de lier le langage Python avec la bibliothèque Qt. Il permet de créer des interfaces graphiques en Python.
+
 - création du répertoire *src/*
 
 **Liens:**  
@@ -138,6 +158,10 @@ Mémo sur la mise en place d'un cadre de travail pour le développement d'un pro
 </div>
 
 <br/><br/>
+
+> PyPI est le dépôt tiers officiel du langage de programmation Python. Son objectif est de doter la communauté des développeurs Python d'un catalogue complet recensant tous les paquets Python libres.
+
+> Poetry est un outil de gestion des dépendances et de packaging en Python.
 
 - création du répertoire *dist/*
 - création du fichier *pyproject.toml*
