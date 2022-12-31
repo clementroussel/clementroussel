@@ -32,7 +32,7 @@ Mémo sur la mise en place d'un cadre de travail pour le développement d'un pro
 - attribution d'un icone
 
 **Liens:**  
-- logo: [Icon archives](https://iconarchive.com/).
+- [Icon archives](https://iconarchive.com/).
 
 ## 2. GitHub
 
