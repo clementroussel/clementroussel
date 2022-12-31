@@ -26,9 +26,10 @@ Mémo sur la mise en place d'un cadre de travail pour le développement d'un pro
   <img src="{{site.baseurl}}/assets/icons/idea.png" title="Idea" alt="Idea" width="40" height="40"/>&nbsp;
 </div>
 
----
-
-- nom du projet: **Cross Profile (cross-profile)**
+  
+ 
+- attribution d'un nom au projet: **Cross Profile (cross-profile)**
+- attribution d'un icone
 
 **Liens:**  
 - logo: [Icon archives](https://iconarchive.com/).
