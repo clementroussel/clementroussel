@@ -21,13 +21,15 @@ Mémo sur la mise en place d'un cadre de travail pour le développement d'un pro
 [8. PyPI](#7-pypi)  
 [9. Stack Overflow](#9-stack-overflow)
 
-## 1. Nouveau projet
+## 1. Nouveau projet PYthon
 
 <div id="header" align="center">
   <img src="{{site.baseurl}}/assets/icons/idea.png" title="Idea" alt="Idea" width="40" height="40"/>&nbsp;
 </div>
 
 <br/><br/>
+
+> Python est un langage de programmation interprété, multiparadigme et multiplateformes. Il favorise la programmation impérative structurée, fonctionnelle et orientée objet.
  
 - attribution d'un nom au projet: **Cross Profile (cross-profile)**
 - attribution d'un icone
