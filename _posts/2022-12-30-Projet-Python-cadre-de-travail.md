@@ -47,6 +47,8 @@ Mémo sur la mise en place d'un cadre de travail pour le développement d'un pro
 
 > GitHub est un service web d'hébergement et de gestion de développement de logiciels, utilisant le logiciel de gestion de versions Git.
 
+> Markdown est un langage de balisage léger dont le but est d'offrir une syntaxe facile à lire et à écrire.
+
 - initialisation d'un nouveau dépôt *GitHub*
 - création du fichier *README.md*
 - création du fichier *LICENCE*
