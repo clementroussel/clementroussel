@@ -145,3 +145,15 @@ Mémo sur la mise en place d'un cadre de travail pour le développement d'un pro
 - [PyPI](https://pypi.org/)
 - [Poetry](https://python-poetry.org/)
 
+## 9. Stack Overflow
+
+<div id="header" align="center">
+  <img src="{{site.baseurl}}/assets/icons/stackoverflow.png" title="stack-overflow" alt="stack-overflow" width="40" height="40"/>&nbsp;
+</div>
+
+<br/><br/>
+
+> Stack Overflow est un site web proposant des questions et réponses sur un large choix de thèmes concernant la programmation informatique.
+
+**Liens:**  
+- [Stack Overflow](https://stackoverflow.com/)
