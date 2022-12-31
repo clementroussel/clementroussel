@@ -12,6 +12,8 @@ layout: home
   <img src="./icons/hello.png" width="100"/>
 </div>
 
+<br/><br/>
+
 <div id="header" align="center">
   <h2>
   Bonjour et bienvenue sur mon blog GitHub ! 
