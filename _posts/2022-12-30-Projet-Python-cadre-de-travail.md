@@ -32,7 +32,7 @@ Mémo sur la mise en place d'un cadre de travail pour le développement d'un pro
 - attribution d'un icone
 
 **Liens:**  
-- [Icon archives](https://iconarchive.com/).
+- [Icon archives](https://iconarchive.com/)
 
 ## 2. GitHub
 
@@ -40,7 +40,7 @@ Mémo sur la mise en place d'un cadre de travail pour le développement d'un pro
   <img src="{{site.baseurl}}/assets/icons/github.png" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
 </div>
 
----
+</br>
 
 - initialisation d'un nouveau dépôt *GitHub*
 - création du fichier *README.md*
@@ -53,15 +53,13 @@ Mémo sur la mise en place d'un cadre de travail pour le développement d'un pro
 - [Choose a license](https://choosealicense.com/)
 - [*Markdown*](https://www.markdownguide.org/)
 
-Le dépôt *GitHub* du projet est accessible à l'url: [github.com/clementroussel/cross-profile](https://github.com/clementroussel/cross-profile).
-
 ## 3. Conda 
 
 <div id="header" align="center">
   <img src="{{site.baseurl}}/assets/icons/conda.png" title="Conda" alt="Conda" width="40" height="40"/>&nbsp;
 </div>
 
----
+</br>
 
 - création d'un environnement virtuel *cross-profile*
 
@@ -77,7 +75,7 @@ Le dépôt *GitHub* du projet est accessible à l'url: [github.com/clementrousse
   <img src="{{site.baseurl}}/assets/icons/scipy.png" title="scipy" alt="scipy" width="40" height="40"/>&nbsp;
 </div>
 
----
+</br>
 
 - ajout des modules scientifiques *matplotlib*, *numpy*, *pandas*, *scipy*
 
@@ -94,10 +92,10 @@ Le dépôt *GitHub* du projet est accessible à l'url: [github.com/clementrousse
   <img src="{{site.baseurl}}/assets/icons/sphinx.png" title="sphinx" alt="sphinx" width="40" height="40"/>&nbsp;
 </div>
 
----
+</br>
 
-- répertoire *docs/*
-- fichier *readthedocs.yaml*
+- création du répertoire *docs/*
+- création du fichier *readthedocs.yaml*
 
 **Liens:**  
 - [Sphinx](https://www.sphinx-doc.org/en/master/)
@@ -109,9 +107,9 @@ Le dépôt *GitHub* du projet est accessible à l'url: [github.com/clementrousse
   <img src="{{site.baseurl}}/assets/icons/jupyter.png" title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp;
 </div>
 
----
+</br>
 
-- répertoire *notebooks/*
+- création du répertoire *notebooks/*
 
 **Liens:**  
 - [Jupyter](https://jupyter.org/)
@@ -124,9 +122,9 @@ Le dépôt *GitHub* du projet est accessible à l'url: [github.com/clementrousse
   <img src="{{site.baseurl}}/assets/icons/qt.png" title="qt" alt="qt" width="40" height="40"/>&nbsp;
 </div>
 
----
+</br>
 
-- répertoire *src/*
+- création du répertoire *src/*
 
 **Liens:**  
 - [fbs](https://build-system.fman.io/)
@@ -138,10 +136,10 @@ Le dépôt *GitHub* du projet est accessible à l'url: [github.com/clementrousse
   <img src="{{site.baseurl}}/assets/icons/pypi.png" title="pypi" alt="pypi" width="40" height="40"/>&nbsp;
 </div>
 
----
+</br>
 
-- répertoire *dist/*
-- fichier *pyproject.toml*
+- création du répertoire *dist/*
+- création du fichier *pyproject.toml*
 
 **Liens:**  
 - [PyPI](https://pypi.org/)
