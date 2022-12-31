@@ -74,6 +74,7 @@ Mémo sur la mise en place d'un cadre de travail pour le développement d'un pro
 
 ```bash
 conda create --name cross-profile -y python=3.9
+conda activate cross-profile
 ```
 
 **Liens:**  
@@ -144,6 +145,10 @@ pip freeze > requirements/base.txt
 
 - création du répertoire *notebooks/*
 
+```bash
+pip install jupyterlab
+```
+
 **Liens:**  
 - [Jupyter](https://jupyter.org/)
 - [nbviewer](https://nbviewer.org/)
@@ -160,6 +165,11 @@ pip freeze > requirements/base.txt
 > PyQt est un module libre qui permet de lier le langage Python avec la bibliothèque Qt. Il permet de créer des interfaces graphiques en Python.
 
 - création du répertoire *src/*
+
+```bash
+pip install fbs PyQt5
+fbs startproject
+```
 
 **Liens:**  
 - [fbs](https://build-system.fman.io/)
@@ -179,6 +189,11 @@ pip freeze > requirements/base.txt
 
 - création du répertoire *dist/*
 - création du fichier *pyproject.toml*
+
+```bash
+poetry build
+poetry publish
+```
 
 **Liens:**  
 - [PyPI](https://pypi.org/)
