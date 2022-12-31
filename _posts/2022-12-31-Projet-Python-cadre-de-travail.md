@@ -15,10 +15,10 @@ Mémo sur la mise en place d'un cadre de travail pour le développement d'un pro
 [2. GitHub](#2-github)  
 [3. Conda](#3-conda)  
 [4. Modules Python](#4-modules-python)  
-[5. Documentation web](#4-documentation-web)  
-[6. Documentation API](#5-documentation-api)  
-[7. PyQt](#6-pyqt)  
-[8. PyPI](#7-pypi)  
+[5. Documentation web](#5-documentation-web)  
+[6. Documentation API](#6-documentation-api)  
+[7. PyQt](#7-pyqt)  
+[8. PyPI](#8-pypi)  
 [9. Stack Overflow](#9-stack-overflow)
 
 ## 1. Nouveau projet Python
