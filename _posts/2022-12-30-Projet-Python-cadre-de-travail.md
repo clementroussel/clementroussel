@@ -72,6 +72,10 @@ Mémo sur la mise en place d'un cadre de travail pour le développement d'un pro
 
 - création d'un environnement virtuel *cross-profile*
 
+```bash
+conda create --name cross-profile -y python=3.9
+```
+
 **Liens:**  
 - [Conda](https://docs.conda.io/en/latest/)
 
@@ -86,8 +90,6 @@ Mémo sur la mise en place d'un cadre de travail pour le développement d'un pro
 
 <br/><br/>
 
-- ajout des modules scientifiques *matplotlib*, *numpy*, *pandas*, *scipy*
-
 > Matplotlib est une bibliothèque du langage de programmation Python destinée à tracer et visualiser des données sous forme de graphiques.
 
 > NumPy est une bibliothèque pour langage de programmation Python, destinée à manipuler des matrices ou tableaux multidimensionnels ainsi que des fonctions mathématiques opérant sur ces tableaux.
@@ -95,6 +97,14 @@ Mémo sur la mise en place d'un cadre de travail pour le développement d'un pro
 > Pandas est une bibliothèque écrite pour le langage de programmation Python permettant la manipulation et l'analyse des données.
 
 > SciPy est un projet visant à unifier et fédérer un ensemble de bibliothèques Python à usage scientifique.
+
+- ajout des modules scientifiques *matplotlib*, *numpy*, *pandas*, *scipy*
+- création du fichier *requirements/base.txt*
+
+```bash
+pip install matplotlib numpy pandas scipy
+pip freeze > requirements/base.txt
+```
 
 **Liens:**
 - [matplotlib](https://matplotlib.org/)
