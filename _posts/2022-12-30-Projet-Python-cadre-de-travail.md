@@ -3,13 +3,11 @@ layout: post
 title: Projet Python, cadre de travail
 ---
 
+Mémo sur la mise en place d'un cadre de travail pour le développement d'un projet de développement avec le langage de programmation *Python*.
+
 <div id="header" align="center">
   <img src="{{site.baseurl}}/assets/icons/python.png" title="python" alt="python" width="40" height="40"/>&nbsp;
 </div>
-
----
-
-Mémo sur la mise en place d'un cadre de travail pour le développement d'un projet de développement avec le langage de programmation *Python*.
 
 ---
 
