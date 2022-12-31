@@ -21,7 +21,7 @@ Mémo sur la mise en place d'un cadre de travail pour le développement d'un pro
 [8. PyPI](#7-pypi)  
 [9. Stack Overflow](#9-stack-overflow)
 
-## 1. Nouveau projet PYthon
+## 1. Nouveau projet Python
 
 <div id="header" align="center">
   <img src="{{site.baseurl}}/assets/icons/idea.png" title="Idea" alt="Idea" width="40" height="40"/>&nbsp;
