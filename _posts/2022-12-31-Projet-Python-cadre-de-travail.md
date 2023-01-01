@@ -19,7 +19,7 @@ Mémo sur la mise en place d'un cadre de travail pour le développement d'un pro
 [6. Documentation API](#6-documentation-api)  
 [7. PyQt](#7-pyqt)  
 [8. PyPI](#8-pypi)  
-[9. Stack Overflow](#9-stack-overflow)
+[9. Stack Overflow](#9-stack-overflow)  
 [10. SourceForge](#10-sourceforge)
 
 ## 1. Nouveau projet Python
