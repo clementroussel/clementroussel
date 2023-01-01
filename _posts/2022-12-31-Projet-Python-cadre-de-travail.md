@@ -32,7 +32,8 @@ Mémo sur la mise en place d'un cadre de travail pour le développement d'un pro
 
 > Python est un langage de programmation interprété, multiparadigme et multiplateformes. Il favorise la programmation impérative structurée, fonctionnelle et orientée objet.
  
-- attribution d'un nom au projet: **Cross Profile (cross-profile)**
+- attribution d'un nom au projet: **pyCross**
+- attribution d'un nom à la librairie *Python*: **cross-profile**
 - attribution d'un icone
 
 **Liens:**  
