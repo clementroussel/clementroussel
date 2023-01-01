@@ -39,6 +39,7 @@ layout: home
   <img src="icons/qt.png" title="Qt" alt="Qt" width="40" height="40"/>&nbsp;
   <img src="icons/readthedocs.png" title="Read the docs" alt="Read the docs" width="40" height="40"/>&nbsp;
   <img src="icons/scipy.png" title="SciPy" alt="SciPy" width="40" height="40"/>&nbsp;
+  <img src="icons/sourceforge.png" title="SourceForge" alt="SourceForge" width="40" height="40"/>&nbsp;
   <img src="icons/stackoverflow.png" title="Stack Overflow" alt="Stack OVerflow" width="40" height="40"/>&nbsp;
   <img src="icons/sphinx.png" title="Sphinx" alt="Sphinx" width="40" height="40"/>&nbsp;
   <img src="icons/vscode.png" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
