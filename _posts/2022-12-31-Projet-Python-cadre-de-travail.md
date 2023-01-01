@@ -224,5 +224,7 @@ poetry publish
 
 > SourceForge.net est une forge logicielle, c'est-à-dire un site web hébergeant la gestion du développement de logiciels majoritairement libres. 
 
+- création d'un nouveau projet: **pyCross**
+
 **Liens:**
 - [SourceForge](https://sourceforge.net/)
