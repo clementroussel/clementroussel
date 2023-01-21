@@ -17,3 +17,10 @@ The guest for this episode is Peter Petrik, the CPO of Lutra Consulting. He prev
 
 [Episode du 20 juillet 2022](https://mapscaping.com/podcast/qgis-offline-and-in-the-field/)
 
+## FOSS4G
+
+Andrea Antonello is an open-source geospatial developer, and part of the organizational team for FOSS4G. He has given many talks and trainings to the geospatial community about open source software development over the last 20 years. He holds a PhD in environmental sciences, and lectures Advanced Geomatics at the Free University of Bolzano. His main works involve open source development for environmental modelling, and geospatial mobile applications.
+
+He dives deep into explaining what the FOSS4G is, who it is for, and how persons and businesses can get involved.
+
+[Episode du 8 juin 2022](https://mapscaping.com/podcast/foss4g/)
