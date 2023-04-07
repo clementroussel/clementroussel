@@ -4,15 +4,15 @@
 
 <div id="header" align="center">
   <h2>
-  Bonjour et bienvenue sur mon profil GitHub ! 
+  Welcome on my GitHub profile ! 
   </h2>
   <h3>
-  Je suis Clément, assistant études au service de Restauration des Terrains en Montagne (RTM) de l'Office National des Forêts (ONF).
+  My name is Clement. I work at the French National Forests Office - Restoration of Mountainous Areas.
   </h3>
   <div id="header" align="center">
   <img src="onf_rtm.png" width="400"/>
   <h4>
-  Pour en savoir plus sur mon parcours et mes projets de développement Python, c'est ici que ça se passe: http://clementroussel.github.io/clementroussel.
+  Want to kown more about me ? Visit my GitHub page at http://clementroussel.github.io/clementroussel.
   </h4>
 </div>
 
